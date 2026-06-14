@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 1945281b74c55d94e926c7bbb7f815a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5496721853107962869
+    second: Tyrannosaurus_0
+  - first:
+      213: -761080893559871142
+    second: Tyrannosaurus_1
+  - first:
+      213: 6904813702569326613
+    second: Tyrannosaurus_2
+  - first:
+      213: -4248255867290030314
+    second: Tyrannosaurus_3
+  - first:
+      213: -1115764575457368970
+    second: Tyrannosaurus_4
+  - first:
+      213: 1864503086717697354
+    second: Tyrannosaurus_5
+  - first:
+      213: -751451914423944874
+    second: Tyrannosaurus_6
+  - first:
+      213: 8981078142522427776
+    second: Tyrannosaurus_7
+  - first:
+      213: -2312341439100394832
+    second: Tyrannosaurus_8
+  - first:
+      213: 5584236220078763337
+    second: Tyrannosaurus_9
+  - first:
+      213: 2647440004314598427
+    second: Tyrannosaurus_10
+  - first:
+      213: 4005574260296107849
+    second: Tyrannosaurus_11
+  - first:
+      213: 3595089810508699212
+    second: Tyrannosaurus_12
+  - first:
+      213: -8815755885048704670
+    second: Tyrannosaurus_13
+  - first:
+      213: -5134651186676241781
+    second: Tyrannosaurus_14
+  - first:
+      213: 7567457705538836693
+    second: Tyrannosaurus_15
+  - first:
+      213: -8717804752283065453
+    second: Tyrannosaurus_16
+  - first:
+      213: -849824278339269962
+    second: Tyrannosaurus_17
+  - first:
+      213: -2107367237426203568
+    second: Tyrannosaurus_18
+  - first:
+      213: 3034909298403356708
+    second: Tyrannosaurus_19
+  - first:
+      213: 3849020135977199344
+    second: Tyrannosaurus_20
+  - first:
+      213: -4034197684539530641
+    second: Tyrannosaurus_21
+  - first:
+      213: 4345351515225095089
+    second: Tyrannosaurus_22
+  - first:
+      213: -400343324030422301
+    second: Tyrannosaurus_23
+  - first:
+      213: 406225139841679820
+    second: Tyrannosaurus_24
+  - first:
+      213: 2148011620970611252
+    second: Tyrannosaurus_25
+  - first:
+      213: 7669036267558635998
+    second: Tyrannosaurus_26
+  - first:
+      213: -494378926165739114
+    second: Tyrannosaurus_27
+  - first:
+      213: 975992533273615553
+    second: Tyrannosaurus_28
+  - first:
+      213: 2210268920511960312
+    second: Tyrannosaurus_29
+  - first:
+      213: -5035823484955462857
+    second: Tyrannosaurus_30
+  - first:
+      213: 5765914270474592547
+    second: Tyrannosaurus_31
+  - first:
+      213: -6901927807404540449
+    second: Tyrannosaurus_32
+  - first:
+      213: -1557676732866605302
+    second: Tyrannosaurus_33
+  - first:
+      213: 4033870780701483704
+    second: Tyrannosaurus_34
+  - first:
+      213: -2715654043978715108
+    second: Tyrannosaurus_35
+  - first:
+      213: -7794711763574302183
+    second: Tyrannosaurus_36
+  - first:
+      213: 4898814933711150920
+    second: Tyrannosaurus_37
+  - first:
+      213: -5825524019578143167
+    second: Tyrannosaurus_38
+  - first:
+      213: -8873159422137873396
+    second: Tyrannosaurus_39
+  - first:
+      213: -3043735026070989828
+    second: Tyrannosaurus_40
+  - first:
+      213: 8608012662114957991
+    second: Tyrannosaurus_41
+  - first:
+      213: 4495634612242103834
+    second: Tyrannosaurus_42
+  - first:
+      213: -5557195811942161612
+    second: Tyrannosaurus_43
+  - first:
+      213: 1933665249314560438
+    second: Tyrannosaurus_44
+  - first:
+      213: -5827594740913220239
+    second: Tyrannosaurus_45
+  - first:
+      213: -4928841776927547187
+    second: Tyrannosaurus_46
+  - first:
+      213: 5225050820626408091
+    second: Tyrannosaurus_47
+  - first:
+      213: 2966183389451424930
+    second: Tyrannosaurus_48
+  - first:
+      213: 5482563089629857450
+    second: Tyrannosaurus_49
+  - first:
+      213: -7303172824762632429
+    second: Tyrannosaurus_50
+  - first:
+      213: -3398380606167138992
+    second: Tyrannosaurus_51
+  - first:
+      213: -949216473675349731
+    second: Tyrannosaurus_52
+  - first:
+      213: -7360169120827183270
+    second: Tyrannosaurus_53
+  - first:
+      213: 11475633238023576
+    second: Tyrannosaurus_54
+  - first:
+      213: 6482406435589120585
+    second: Tyrannosaurus_55
+  - first:
+      213: 4307295271649317268
+    second: Tyrannosaurus_56
+  - first:
+      213: -4818940552137584915
+    second: Tyrannosaurus_57
+  - first:
+      213: 4630883207606530509
+    second: Tyrannosaurus_58
+  - first:
+      213: 8731322067536016294
+    second: Tyrannosaurus_59
+  - first:
+      213: 107090633122645771
+    second: Tyrannosaurus_60
+  - first:
+      213: 6026674937252308467
+    second: Tyrannosaurus_61
+  - first:
+      213: -7910946279516652896
+    second: Tyrannosaurus_62
+  - first:
+      213: 3451457321641979049
+    second: Tyrannosaurus_63
+  - first:
+      213: 9117676313885888319
+    second: Tyrannosaurus_64
+  - first:
+      213: -9167774113043289724
+    second: Tyrannosaurus_65
+  - first:
+      213: -6184323173582219520
+    second: Tyrannosaurus_66
+  - first:
+      213: 3339137201566935924
+    second: Tyrannosaurus_67
+  - first:
+      213: 7940377799850642247
+    second: Tyrannosaurus_68
+  - first:
+      213: 2956999755469976609
+    second: Tyrannosaurus_69
+  - first:
+      213: 1305226170617563241
+    second: Tyrannosaurus_70
+  - first:
+      213: 315532906234034251
+    second: Tyrannosaurus_71
+  - first:
+      213: -2232541661591465132
+    second: Tyrannosaurus_72
+  - first:
+      213: -920399316844227296
+    second: Tyrannosaurus_73
+  - first:
+      213: 2636831669405850161
+    second: Tyrannosaurus_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tyrannosaurus_0
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1454
+        width: 792
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f380ab0767484c40800000000000000
+      internalID: 5496721853107962869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_1
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 2015
+        width: 123
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59e60ea5f81075f0800000000000000
+      internalID: -761080893559871142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_2
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 1914
+        width: 198
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f4edaa73d2df50800000000000000
+      internalID: 6904813702569326613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_3
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 1868
+        width: 205
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f65330cc92b05c0800000000000000
+      internalID: -4248255867290030314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_4
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 1763
+        width: 270
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67426eab7020480f0800000000000000
+      internalID: -1115764575457368970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_5
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 1827
+        width: 55
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d7d66cdab00e910800000000000000
+      internalID: 1864503086717697354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_6
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1842
+        width: 51
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65939f6177e4295f0800000000000000
+      internalID: -751451914423944874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_7
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1867
+        width: 55
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0890311acf233ac70800000000000000
+      internalID: 8981078142522427776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_8
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 1906
+        width: 110
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2610366b9e8efd0800000000000000
+      internalID: -2312341439100394832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_9
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 1925
+        width: 92
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d2aaf61413f7d40800000000000000
+      internalID: 5584236220078763337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_10
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 1920
+        width: 144
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c845d38a89db420800000000000000
+      internalID: 2647440004314598427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_11
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1917
+        width: 204
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947c56a3198a69730800000000000000
+      internalID: 4005574260296107849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_12
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 1905
+        width: 187
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c465ff2922354e130800000000000000
+      internalID: 3595089810508699212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_13
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1887
+        width: 207
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261dc1dfab428a580800000000000000
+      internalID: -8815755885048704670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_14
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 1681
+        width: 232
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aef9443fd0eb8b0800000000000000
+      internalID: -5134651186676241781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_15
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 1615
+        width: 167
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d85f6760b2050960800000000000000
+      internalID: 7567457705538836693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_16
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 1806
+        width: 178
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393a4f644c2240780800000000000000
+      internalID: -8717804752283065453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_17
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 1831
+        width: 140
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bac5184251d434f0800000000000000
+      internalID: -849824278339269962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_18
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 1806
+        width: 159
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0543ae1b9a021c2e0800000000000000
+      internalID: -2107367237426203568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_19
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 1745
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420bcd06de92e1a20800000000000000
+      internalID: 3034909298403356708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_20
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 1862
+        width: 228
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f62f32bb677a6530800000000000000
+      internalID: 3849020135977199344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_21
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 1824
+        width: 237
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62615b7496a308c0800000000000000
+      internalID: -4034197684539530641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_22
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 1775
+        width: 185
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb72313e2acd4c30800000000000000
+      internalID: 4345351515225095089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_23
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 1596
+        width: 169
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2b7fe2ed1b17af0800000000000000
+      internalID: -400343324030422301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_24
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 1744
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1c817cc9333a500800000000000000
+      internalID: 406225139841679820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_25
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 1782
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4324d5940354fcd10800000000000000
+      internalID: 2148011620970611252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_26
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 1127
+        width: 161
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed98b616ad3ed6a60800000000000000
+      internalID: 7669036267558635998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_27
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1166
+        width: 139
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b3796cfc9329f0800000000000000
+      internalID: -494378926165739114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_28
+      rect:
+        serializedVersion: 2
+        x: 4182
+        y: 1685
+        width: 228
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc1539b90c6b8d00800000000000000
+      internalID: 975992533273615553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_29
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 1748
+        width: 142
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f493396fd37cae10800000000000000
+      internalID: 2210268920511960312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_30
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 1696
+        width: 157
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733f8aba8392d1ab0800000000000000
+      internalID: -5035823484955462857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_31
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 1168
+        width: 153
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3216ef8da74a40050800000000000000
+      internalID: 5765914270474592547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_32
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 1159
+        width: 154
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddf2462a3d6730a0800000000000000
+      internalID: -6901927807404540449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_33
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 1228
+        width: 141
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f489ea345026ae0800000000000000
+      internalID: -1557676732866605302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_34
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 1309
+        width: 106
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b22a894a103bf730800000000000000
+      internalID: 4033870780701483704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_35
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 1459
+        width: 355
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10bbcff80f005ad0800000000000000
+      internalID: -2715654043978715108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_36
+      rect:
+        serializedVersion: 2
+        x: 4687
+        y: 1664
+        width: 150
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a589df2fe93d390800000000000000
+      internalID: -7794711763574302183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_37
+      rect:
+        serializedVersion: 2
+        x: 4821
+        y: 1617
+        width: 150
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f5b382a361cf340800000000000000
+      internalID: 4898814933711150920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_38
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 1592
+        width: 136
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ef986e4c4972fa0800000000000000
+      internalID: -5825524019578143167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_39
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 1446
+        width: 183
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ccf0084843cd480800000000000000
+      internalID: -8873159422137873396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_40
+      rect:
+        serializedVersion: 2
+        x: 4757
+        y: 1485
+        width: 153
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3df94ce1b72c5d0800000000000000
+      internalID: -3043735026070989828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_41
+      rect:
+        serializedVersion: 2
+        x: 4917
+        y: 1451
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa3d63b8edc57770800000000000000
+      internalID: 8608012662114957991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_42
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 1544
+        width: 115
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e34a66cd3b36e30800000000000000
+      internalID: 4495634612242103834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_43
+      rect:
+        serializedVersion: 2
+        x: 5140
+        y: 1539
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43326e13adfd0e2b0800000000000000
+      internalID: -5557195811942161612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_44
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 1491
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b959eb9c42c5da10800000000000000
+      internalID: 1933665249314560438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_45
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 1464
+        width: 130
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175dee48579302fa0800000000000000
+      internalID: -5827594740913220239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_46
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 1136
+        width: 140
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0e02c948c399bb0800000000000000
+      internalID: -4928841776927547187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_47
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 1113
+        width: 252
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92ecc0b90c138840800000000000000
+      internalID: 5225050820626408091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_48
+      rect:
+        serializedVersion: 2
+        x: 4024
+        y: 776
+        width: 547
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a49ae2c3100a2920800000000000000
+      internalID: 2966183389451424930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_49
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 1292
+        width: 165
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa64e08051af51c40800000000000000
+      internalID: 5482563089629857450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_50
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 1303
+        width: 48
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317bcbe720be5aa90800000000000000
+      internalID: -7303172824762632429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_51
+      rect:
+        serializedVersion: 2
+        x: 4834
+        y: 1293
+        width: 41
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05db4d518d686d0d0800000000000000
+      internalID: -3398380606167138992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_52
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 1292
+        width: 53
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11c1a775a4b3d2f0800000000000000
+      internalID: -949216473675349731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_53
+      rect:
+        serializedVersion: 2
+        x: 4969
+        y: 1285
+        width: 52
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5feb423e2d6bd990800000000000000
+      internalID: -7360169120827183270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_54
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 1274
+        width: 71
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d99b21705c82000800000000000000
+      internalID: 11475633238023576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_55
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 1413
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942eef2de4226f950800000000000000
+      internalID: 6482406435589120585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_56
+      rect:
+        serializedVersion: 2
+        x: 5203
+        y: 1350
+        width: 150
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49190618a3696cb30800000000000000
+      internalID: 4307295271649317268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_57
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 1416
+        width: 139
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee4d14891faf1db0800000000000000
+      internalID: -4818940552137584915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_58
+      rect:
+        serializedVersion: 2
+        x: 5432
+        y: 1380
+        width: 142
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc175b9edb3344040800000000000000
+      internalID: 4630883207606530509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_59
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 1276
+        width: 68
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3730fe823eb2970800000000000000
+      internalID: 8731322067536016294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_60
+      rect:
+        serializedVersion: 2
+        x: 5143
+        y: 1266
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b070c0a0d567c7100800000000000000
+      internalID: 107090633122645771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_61
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 1242
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f56cabbcec03a350800000000000000
+      internalID: 6026674937252308467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_62
+      rect:
+        serializedVersion: 2
+        x: 5252
+        y: 1228
+        width: 73
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa3634d54ca63290800000000000000
+      internalID: -7910946279516652896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_63
+      rect:
+        serializedVersion: 2
+        x: 5345
+        y: 1283
+        width: 136
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac24edb52a06ef20800000000000000
+      internalID: 3451457321641979049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_64
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 1323
+        width: 140
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f492acc4e788e70800000000000000
+      internalID: 9117676313885888319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_65
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 1206
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4896803640685c080800000000000000
+      internalID: -9167774113043289724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_66
+      rect:
+        serializedVersion: 2
+        x: 5355
+        y: 1164
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0075a6ee6dedc2aa0800000000000000
+      internalID: -6184323173582219520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_67
+      rect:
+        serializedVersion: 2
+        x: 5471
+        y: 674
+        width: 209
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b60b3e79ff65e20800000000000000
+      internalID: 3339137201566935924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_68
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 1255
+        width: 116
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bce7ef983e13e60800000000000000
+      internalID: 7940377799850642247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_69
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 1152
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12474b95c9f590920800000000000000
+      internalID: 2956999755469976609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_70
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 1122
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968043b69481d1210800000000000000
+      internalID: 1305226170617563241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_71
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 422
+        width: 646
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48b607a18ff06400800000000000000
+      internalID: 315532906234034251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_72
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 735
+        width: 627
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4539492ff2b6401e0800000000000000
+      internalID: -2232541661591465132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_73
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 578
+        width: 483
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025dcf3a2b51a33f0800000000000000
+      internalID: -920399316844227296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_74
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 39
+        width: 657
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a9f6bce68e79420800000000000000
+      internalID: 2636831669405850161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tyrannosaurus_0: 5496721853107962869
+      Tyrannosaurus_1: -761080893559871142
+      Tyrannosaurus_10: 2647440004314598427
+      Tyrannosaurus_11: 4005574260296107849
+      Tyrannosaurus_12: 3595089810508699212
+      Tyrannosaurus_13: -8815755885048704670
+      Tyrannosaurus_14: -5134651186676241781
+      Tyrannosaurus_15: 7567457705538836693
+      Tyrannosaurus_16: -8717804752283065453
+      Tyrannosaurus_17: -849824278339269962
+      Tyrannosaurus_18: -2107367237426203568
+      Tyrannosaurus_19: 3034909298403356708
+      Tyrannosaurus_2: 6904813702569326613
+      Tyrannosaurus_20: 3849020135977199344
+      Tyrannosaurus_21: -4034197684539530641
+      Tyrannosaurus_22: 4345351515225095089
+      Tyrannosaurus_23: -400343324030422301
+      Tyrannosaurus_24: 406225139841679820
+      Tyrannosaurus_25: 2148011620970611252
+      Tyrannosaurus_26: 7669036267558635998
+      Tyrannosaurus_27: -494378926165739114
+      Tyrannosaurus_28: 975992533273615553
+      Tyrannosaurus_29: 2210268920511960312
+      Tyrannosaurus_3: -4248255867290030314
+      Tyrannosaurus_30: -5035823484955462857
+      Tyrannosaurus_31: 5765914270474592547
+      Tyrannosaurus_32: -6901927807404540449
+      Tyrannosaurus_33: -1557676732866605302
+      Tyrannosaurus_34: 4033870780701483704
+      Tyrannosaurus_35: -2715654043978715108
+      Tyrannosaurus_36: -7794711763574302183
+      Tyrannosaurus_37: 4898814933711150920
+      Tyrannosaurus_38: -5825524019578143167
+      Tyrannosaurus_39: -8873159422137873396
+      Tyrannosaurus_4: -1115764575457368970
+      Tyrannosaurus_40: -3043735026070989828
+      Tyrannosaurus_41: 8608012662114957991
+      Tyrannosaurus_42: 4495634612242103834
+      Tyrannosaurus_43: -5557195811942161612
+      Tyrannosaurus_44: 1933665249314560438
+      Tyrannosaurus_45: -5827594740913220239
+      Tyrannosaurus_46: -4928841776927547187
+      Tyrannosaurus_47: 5225050820626408091
+      Tyrannosaurus_48: 2966183389451424930
+      Tyrannosaurus_49: 5482563089629857450
+      Tyrannosaurus_5: 1864503086717697354
+      Tyrannosaurus_50: -7303172824762632429
+      Tyrannosaurus_51: -3398380606167138992
+      Tyrannosaurus_52: -949216473675349731
+      Tyrannosaurus_53: -7360169120827183270
+      Tyrannosaurus_54: 11475633238023576
+      Tyrannosaurus_55: 6482406435589120585
+      Tyrannosaurus_56: 4307295271649317268
+      Tyrannosaurus_57: -4818940552137584915
+      Tyrannosaurus_58: 4630883207606530509
+      Tyrannosaurus_59: 8731322067536016294
+      Tyrannosaurus_6: -751451914423944874
+      Tyrannosaurus_60: 107090633122645771
+      Tyrannosaurus_61: 6026674937252308467
+      Tyrannosaurus_62: -7910946279516652896
+      Tyrannosaurus_63: 3451457321641979049
+      Tyrannosaurus_64: 9117676313885888319
+      Tyrannosaurus_65: -9167774113043289724
+      Tyrannosaurus_66: -6184323173582219520
+      Tyrannosaurus_67: 3339137201566935924
+      Tyrannosaurus_68: 7940377799850642247
+      Tyrannosaurus_69: 2956999755469976609
+      Tyrannosaurus_7: 8981078142522427776
+      Tyrannosaurus_70: 1305226170617563241
+      Tyrannosaurus_71: 315532906234034251
+      Tyrannosaurus_72: -2232541661591465132
+      Tyrannosaurus_73: -920399316844227296
+      Tyrannosaurus_74: 2636831669405850161
+      Tyrannosaurus_8: -2312341439100394832
+      Tyrannosaurus_9: 5584236220078763337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: e3eea07ad9ff4d14093813b7ac6ec798
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1303793455164253885
+    second: Tyrannosaurus_Badan_0
+  - first:
+      213: -13790074859835743
+    second: Tyrannosaurus_Badan_1
+  - first:
+      213: -2095502607980309840
+    second: Tyrannosaurus_Badan_2
+  - first:
+      213: 5796911080011165746
+    second: Tyrannosaurus_Badan_3
+  - first:
+      213: -6007959308415605382
+    second: Tyrannosaurus_Badan_4
+  - first:
+      213: -2738602875717728782
+    second: Tyrannosaurus_Badan_5
+  - first:
+      213: 628023032649815940
+    second: Tyrannosaurus_Badan_6
+  - first:
+      213: -8508404804330805993
+    second: Tyrannosaurus_Badan_7
+  - first:
+      213: 2398509619218048247
+    second: Tyrannosaurus_Badan_8
+  - first:
+      213: 6654460027255574285
+    second: Tyrannosaurus_Badan_9
+  - first:
+      213: -3654701825030268848
+    second: Tyrannosaurus_Badan_10
+  - first:
+      213: 3273481570208329143
+    second: Tyrannosaurus_Badan_11
+  - first:
+      213: 887420441235220986
+    second: Tyrannosaurus_Badan_12
+  - first:
+      213: -2961521283884096579
+    second: Tyrannosaurus_Badan_13
+  - first:
+      213: -6090112201168462224
+    second: Tyrannosaurus_Badan_14
+  - first:
+      213: -4951657612241508640
+    second: Tyrannosaurus_Badan_15
+  - first:
+      213: 4962863191741731470
+    second: Tyrannosaurus_Badan_16
+  - first:
+      213: 5628090855489267277
+    second: Tyrannosaurus_Badan_17
+  - first:
+      213: -2426202921626635841
+    second: Tyrannosaurus_Badan_18
+  - first:
+      213: 5791339565008718566
+    second: Tyrannosaurus_Badan_19
+  - first:
+      213: -4639782470748182756
+    second: Tyrannosaurus_Badan_20
+  - first:
+      213: -8599507132466977322
+    second: Tyrannosaurus_Badan_21
+  - first:
+      213: 1740703731218898203
+    second: Tyrannosaurus_Badan_22
+  - first:
+      213: -2760713586343599632
+    second: Tyrannosaurus_Badan_23
+  - first:
+      213: 307154424019966810
+    second: Tyrannosaurus_Badan_24
+  - first:
+      213: -3874264588516906751
+    second: Tyrannosaurus_Badan_25
+  - first:
+      213: -2588005567459118223
+    second: Tyrannosaurus_Badan_26
+  - first:
+      213: -7284705171414535171
+    second: Tyrannosaurus_Badan_27
+  - first:
+      213: 4194374269632711274
+    second: Tyrannosaurus_Badan_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 746
+        width: 55
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3499474a2cef7ede0800000000000000
+      internalID: -1303793455164253885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 761
+        width: 51
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aead8efff10fcff0800000000000000
+      internalID: -13790074859835743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 786
+        width: 55
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2dd610b774be2e0800000000000000
+      internalID: -2095502607980309840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 825
+        width: 110
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2307796f9e3c27050800000000000000
+      internalID: 5796911080011165746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 844
+        width: 92
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75e2ec27d07f9ca0800000000000000
+      internalID: -6007959308415605382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 839
+        width: 144
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f54bfbb1378ef9d0800000000000000
+      internalID: -2738602875717728782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_6
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 836
+        width: 204
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4871bdbee9f27b800800000000000000
+      internalID: 628023032649815940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_7
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 824
+        width: 187
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715a2a0f8e21ce980800000000000000
+      internalID: -8508404804330805993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_8
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 806
+        width: 207
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f469d37ac7394120800000000000000
+      internalID: 2398509619218048247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_9
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 781
+        width: 228
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fca905324695c50800000000000000
+      internalID: 6654460027255574285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_10
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 743
+        width: 237
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0585917bd04e74dc0800000000000000
+      internalID: -3654701825030268848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 701
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd2e0bf42ebd6d20800000000000000
+      internalID: 3273481570208329143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 725
+        width: 178
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9ee368030c05c00800000000000000
+      internalID: 887420441235220986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 750
+        width: 140
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db36457451096e6d0800000000000000
+      internalID: -2961521283884096579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_14
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 725
+        width: 159
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ed41748339b7ba0800000000000000
+      internalID: -6090112201168462224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_15
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 664
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e66cfcf2ad284bb0800000000000000
+      internalID: -4951657612241508640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_16
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 604
+        width: 228
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8290ac47c1afd440800000000000000
+      internalID: 4962863191741731470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_17
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 694
+        width: 185
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46ef0d60defa1e40800000000000000
+      internalID: 5628090855489267277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_18
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 667
+        width: 142
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1fd6f1c45645ed0800000000000000
+      internalID: -2426202921626635841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 663
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea820a86a8fe5050800000000000000
+      internalID: 5791339565008718566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_20
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 78
+        width: 154
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1768fbec6e2c9fb0800000000000000
+      internalID: -4639782470748182756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 46
+        width: 161
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d52edd33d968a880800000000000000
+      internalID: -8599507132466977322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_22
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 85
+        width: 139
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ddf7622d8382810800000000000000
+      internalID: 1740703731218898203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_23
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 147
+        width: 141
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1256fbe99ffa9d0800000000000000
+      internalID: -2760713586343599632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_24
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 615
+        width: 157
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b56ee325b334400800000000000000
+      internalID: 307154424019966810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_25
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 583
+        width: 150
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109239b22e8db3ac0800000000000000
+      internalID: -3874264588516906751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 87
+        width: 153
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173bdd2f5ae851cd0800000000000000
+      internalID: -2588005567459118223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_27
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 228
+        width: 106
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3b26c1e3787ea90800000000000000
+      internalID: -7284705171414535171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tyrannosaurus_Badan_28
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 378
+        width: 379
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a0f7cec29653a30800000000000000
+      internalID: 4194374269632711274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tyrannosaurus_Badan_0: -1303793455164253885
+      Tyrannosaurus_Badan_1: -13790074859835743
+      Tyrannosaurus_Badan_10: -3654701825030268848
+      Tyrannosaurus_Badan_11: 3273481570208329143
+      Tyrannosaurus_Badan_12: 887420441235220986
+      Tyrannosaurus_Badan_13: -2961521283884096579
+      Tyrannosaurus_Badan_14: -6090112201168462224
+      Tyrannosaurus_Badan_15: -4951657612241508640
+      Tyrannosaurus_Badan_16: 4962863191741731470
+      Tyrannosaurus_Badan_17: 5628090855489267277
+      Tyrannosaurus_Badan_18: -2426202921626635841
+      Tyrannosaurus_Badan_19: 5791339565008718566
+      Tyrannosaurus_Badan_2: -2095502607980309840
+      Tyrannosaurus_Badan_20: -4639782470748182756
+      Tyrannosaurus_Badan_21: -8599507132466977322
+      Tyrannosaurus_Badan_22: 1740703731218898203
+      Tyrannosaurus_Badan_23: -2760713586343599632
+      Tyrannosaurus_Badan_24: 307154424019966810
+      Tyrannosaurus_Badan_25: -3874264588516906751
+      Tyrannosaurus_Badan_26: -2588005567459118223
+      Tyrannosaurus_Badan_27: -7284705171414535171
+      Tyrannosaurus_Badan_28: 4194374269632711274
+      Tyrannosaurus_Badan_3: 5796911080011165746
+      Tyrannosaurus_Badan_4: -6007959308415605382
+      Tyrannosaurus_Badan_5: -2738602875717728782
+      Tyrannosaurus_Badan_6: 628023032649815940
+      Tyrannosaurus_Badan_7: -8508404804330805993
+      Tyrannosaurus_Badan_8: 2398509619218048247
+      Tyrannosaurus_Badan_9: 6654460027255574285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

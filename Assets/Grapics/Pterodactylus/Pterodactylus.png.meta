@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: ea2ab41733752734f84ad175ca5aff31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 953506729559443137
+    second: Pterodactylus_0
+  - first:
+      213: 2367232356632502127
+    second: Pterodactylus_1
+  - first:
+      213: -5224768144106046984
+    second: Pterodactylus_2
+  - first:
+      213: -1134215287315698653
+    second: Pterodactylus_3
+  - first:
+      213: -7480463906996904754
+    second: Pterodactylus_4
+  - first:
+      213: 2749964227367672179
+    second: Pterodactylus_5
+  - first:
+      213: 2064001256186268991
+    second: Pterodactylus_6
+  - first:
+      213: -8269834152616862628
+    second: Pterodactylus_7
+  - first:
+      213: -5810588344308759630
+    second: Pterodactylus_8
+  - first:
+      213: 1804456431388026538
+    second: Pterodactylus_9
+  - first:
+      213: 3888913231036807445
+    second: Pterodactylus_10
+  - first:
+      213: -602763909766025038
+    second: Pterodactylus_11
+  - first:
+      213: 3094062075669388718
+    second: Pterodactylus_12
+  - first:
+      213: -1884500573669284546
+    second: Pterodactylus_13
+  - first:
+      213: 4538552970732073246
+    second: Pterodactylus_14
+  - first:
+      213: -8316505501277737434
+    second: Pterodactylus_15
+  - first:
+      213: 8728246883105721094
+    second: Pterodactylus_16
+  - first:
+      213: -4645841763972100555
+    second: Pterodactylus_17
+  - first:
+      213: -4536019777071762513
+    second: Pterodactylus_18
+  - first:
+      213: -6213683001327540349
+    second: Pterodactylus_19
+  - first:
+      213: -8875841789899799878
+    second: Pterodactylus_20
+  - first:
+      213: -5966074521731694317
+    second: Pterodactylus_21
+  - first:
+      213: 3276983432640472274
+    second: Pterodactylus_22
+  - first:
+      213: 1226961949107268212
+    second: Pterodactylus_23
+  - first:
+      213: 1765933404717395826
+    second: Pterodactylus_24
+  - first:
+      213: 6055218386102273700
+    second: Pterodactylus_25
+  - first:
+      213: 1509714570877602913
+    second: Pterodactylus_26
+  - first:
+      213: 8196740375564632263
+    second: Pterodactylus_27
+  - first:
+      213: 6679857659397610024
+    second: Pterodactylus_28
+  - first:
+      213: -6654358963669343123
+    second: Pterodactylus_29
+  - first:
+      213: -5767384719247085953
+    second: Pterodactylus_30
+  - first:
+      213: 5816370851638497120
+    second: Pterodactylus_31
+  - first:
+      213: -2951745170448922630
+    second: Pterodactylus_32
+  - first:
+      213: 3096738561906218500
+    second: Pterodactylus_33
+  - first:
+      213: 3639255559081629991
+    second: Pterodactylus_34
+  - first:
+      213: -6985988268550346569
+    second: Pterodactylus_35
+  - first:
+      213: 8948784254483378384
+    second: Pterodactylus_36
+  - first:
+      213: 6973851243297443056
+    second: Pterodactylus_37
+  - first:
+      213: 283360699670040732
+    second: Pterodactylus_38
+  - first:
+      213: -946234521042681721
+    second: Pterodactylus_39
+  - first:
+      213: -9212360583870231505
+    second: Pterodactylus_40
+  - first:
+      213: 4699845714981713618
+    second: Pterodactylus_41
+  - first:
+      213: 6445051979507251625
+    second: Pterodactylus_42
+  - first:
+      213: -1612581481071269538
+    second: Pterodactylus_43
+  - first:
+      213: 6980511201441082527
+    second: Pterodactylus_44
+  - first:
+      213: 97041320277981388
+    second: Pterodactylus_45
+  - first:
+      213: -9102793184932474449
+    second: Pterodactylus_46
+  - first:
+      213: -4149842989787083583
+    second: Pterodactylus_47
+  - first:
+      213: 7750978477916581697
+    second: Pterodactylus_48
+  - first:
+      213: -1137360190582851995
+    second: Pterodactylus_49
+  - first:
+      213: 7916484431158008779
+    second: Pterodactylus_50
+  - first:
+      213: -2832997741301464837
+    second: Pterodactylus_51
+  - first:
+      213: -2176482386086721509
+    second: Pterodactylus_52
+  - first:
+      213: 542482227754161125
+    second: Pterodactylus_53
+  - first:
+      213: 1713828518482096814
+    second: Pterodactylus_54
+  - first:
+      213: -1544353759153117351
+    second: Pterodactylus_55
+  - first:
+      213: 4471857188263501147
+    second: Pterodactylus_56
+  - first:
+      213: 7155603364110599452
+    second: Pterodactylus_57
+  - first:
+      213: 6039554869337735883
+    second: Pterodactylus_58
+  - first:
+      213: -3633718657987756974
+    second: Pterodactylus_59
+  - first:
+      213: 3965807868787076550
+    second: Pterodactylus_60
+  - first:
+      213: -8420609508317364347
+    second: Pterodactylus_61
+  - first:
+      213: 8208420144994894329
+    second: Pterodactylus_62
+  - first:
+      213: 4043744262274401965
+    second: Pterodactylus_63
+  - first:
+      213: 8297652946359039628
+    second: Pterodactylus_64
+  - first:
+      213: 6872388914139538277
+    second: Pterodactylus_65
+  - first:
+      213: -4856206138656874495
+    second: Pterodactylus_66
+  - first:
+      213: 3766193246551742029
+    second: Pterodactylus_67
+  - first:
+      213: -7714449063391095806
+    second: Pterodactylus_68
+  - first:
+      213: -6760935468532041904
+    second: Pterodactylus_69
+  - first:
+      213: 9091170236755513038
+    second: Pterodactylus_70
+  - first:
+      213: -2810235606701038196
+    second: Pterodactylus_71
+  - first:
+      213: 4575286291673794166
+    second: Pterodactylus_72
+  - first:
+      213: -3739606043809905811
+    second: Pterodactylus_73
+  - first:
+      213: 4828571391376762870
+    second: Pterodactylus_74
+  - first:
+      213: 8847024161534536920
+    second: Pterodactylus_75
+  - first:
+      213: 772486774370339255
+    second: Pterodactylus_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pterodactylus_0
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 2821
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6c55291598b3d00800000000000000
+      internalID: 953506729559443137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_1
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 2657
+        width: 83
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f14e549491ad020800000000000000
+      internalID: 2367232356632502127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_2
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 2677
+        width: 58
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f938c01e05ed77b0800000000000000
+      internalID: -5224768144106046984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_3
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 2818
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ceabc94357240f0800000000000000
+      internalID: -1134215287315698653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_4
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 2779
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc9154b5bd003890800000000000000
+      internalID: -7480463906996904754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_5
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 2779
+        width: 34
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379184515e5d92620800000000000000
+      internalID: 2749964227367672179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_6
+      rect:
+        serializedVersion: 2
+        x: 4830
+        y: 2677
+        width: 50
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d41faf43ec4ac10800000000000000
+      internalID: 2064001256186268991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_7
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 2818
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cd0e557a5ab3d80800000000000000
+      internalID: -8269834152616862628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_8
+      rect:
+        serializedVersion: 2
+        x: 4853
+        y: 2657
+        width: 85
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b38379cfa4ac5fa0800000000000000
+      internalID: -5810588344308759630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_9
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 2821
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa66d8d5097ba0910800000000000000
+      internalID: 1804456431388026538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_10
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 2677
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519f342baf138f530800000000000000
+      internalID: 3888913231036807445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_11
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 2551
+        width: 817
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b078faea6d82a7f0800000000000000
+      internalID: -602763909766025038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_12
+      rect:
+        serializedVersion: 2
+        x: 3825
+        y: 2512
+        width: 678
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead1845901150fa20800000000000000
+      internalID: 3094062075669388718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_13
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 2677
+        width: 25
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e352c6776b8e8d5e0800000000000000
+      internalID: -1884500573669284546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_14
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 2147
+        width: 281
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1177ce61ed2cfe30800000000000000
+      internalID: 4538552970732073246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_15
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 2248
+        width: 427
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e22cf2f46d59c80800000000000000
+      internalID: -8316505501277737434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_16
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 2543
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b4d63cb46f02970800000000000000
+      internalID: 8728246883105721094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_17
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 2449
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ec4c7c787a68fb0800000000000000
+      internalID: -4645841763972100555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_18
+      rect:
+        serializedVersion: 2
+        x: 4391
+        y: 2248
+        width: 426
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3bd7dab02dc01c0800000000000000
+      internalID: -4536019777071762513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_19
+      rect:
+        serializedVersion: 2
+        x: 4822
+        y: 2147
+        width: 283
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3872df65b3094c9a0800000000000000
+      internalID: -6213683001327540349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_20
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 2355
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab284761beca2d480800000000000000
+      internalID: -8875841789899799878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_21
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 1763
+        width: 139
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3118ca405de343da0800000000000000
+      internalID: -5966074521731694317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_22
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 2260
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4206dd11f2a7d20800000000000000
+      internalID: 3276983432640472274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_23
+      rect:
+        serializedVersion: 2
+        x: 4348
+        y: 1763
+        width: 138
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aa579546b070110800000000000000
+      internalID: 1226961949107268212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_24
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2048
+        width: 187
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f2d25431bd18810800000000000000
+      internalID: 1765933404717395826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_25
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 2186
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a64a0d4a05780450800000000000000
+      internalID: 6055218386102273700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_26
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 2048
+        width: 183
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c0465476593f410800000000000000
+      internalID: 1509714570877602913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_27
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1684
+        width: 189
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0c1a181fba0c170800000000000000
+      internalID: 8196740375564632263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_28
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 2111
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a119a562f93bc50800000000000000
+      internalID: 6679857659397610024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_29
+      rect:
+        serializedVersion: 2
+        x: 5074
+        y: 1684
+        width: 191
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d646d8267c7f6a3a0800000000000000
+      internalID: -6654358963669343123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_30
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1821
+        width: 349
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ee24e972226ffa0800000000000000
+      internalID: -5767384719247085953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_31
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 2072
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f49dd1976e7b050800000000000000
+      internalID: 5816370851638497120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_32
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 1692
+        width: 388
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7caef086b4907d0800000000000000
+      internalID: -2951745170448922630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_33
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 1942
+        width: 306
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4069ca89053d9fa20800000000000000
+      internalID: 3096738561906218500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_34
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 1942
+        width: 307
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7291ded36ab318230800000000000000
+      internalID: 3639255559081629991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_35
+      rect:
+        serializedVersion: 2
+        x: 4084
+        y: 1692
+        width: 381
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8a200eea8cc0f90800000000000000
+      internalID: -6985988268550346569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_36
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 1608
+        width: 373
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d03714edd7703c70800000000000000
+      internalID: 8948784254483378384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_37
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 1701
+        width: 250
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc0929b1c818c060800000000000000
+      internalID: 6973851243297443056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_38
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1794
+        width: 232
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9093271e03bee300800000000000000
+      internalID: 283360699670040732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_39
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 1755
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7800a0b67bc4ed2f0800000000000000
+      internalID: -946234521042681721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_40
+      rect:
+        serializedVersion: 2
+        x: 3814
+        y: 1608
+        width: 373
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cca9fabde172080800000000000000
+      internalID: -9212360583870231505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_41
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 1701
+        width: 257
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d670a4e6c4393140800000000000000
+      internalID: 4699845714981713618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_42
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 1794
+        width: 230
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a93575c0ac617950800000000000000
+      internalID: 6445051979507251625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_43
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1318
+        width: 148
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59af51dfa5fe99e0800000000000000
+      internalID: -1612581481071269538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_44
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 1511
+        width: 349
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ce78014f1cfd060800000000000000
+      internalID: 6980511201441082527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_45
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 1465
+        width: 314
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc834bf0192c85100800000000000000
+      internalID: 97041320277981388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_46
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 1656
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1d044b3d16ca180800000000000000
+      internalID: -9102793184932474449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_47
+      rect:
+        serializedVersion: 2
+        x: 3814
+        y: 1512
+        width: 352
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc8810a9cbc866c0800000000000000
+      internalID: -4149842989787083583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_48
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 1465
+        width: 311
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f6ae5fbd1019b60800000000000000
+      internalID: 7750978477916581697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_49
+      rect:
+        serializedVersion: 2
+        x: 5238
+        y: 1318
+        width: 148
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56673a2cee84730f0800000000000000
+      internalID: -1137360190582851995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_50
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1413
+        width: 267
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb551595a00ddd60800000000000000
+      internalID: 7916484431158008779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_51
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 1409
+        width: 183
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf00e3c609b2fa8d0800000000000000
+      internalID: -2832997741301464837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_52
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 1475
+        width: 69
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1808652dc49bc1e0800000000000000
+      internalID: -2176482386086721509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_53
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 1413
+        width: 268
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3df3246b8478700800000000000000
+      internalID: 542482227754161125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_54
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 1409
+        width: 181
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea23f0215fdb8c710800000000000000
+      internalID: 1713828518482096814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_55
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 1389
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957a32a307a519ae0800000000000000
+      internalID: -1544353759153117351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_56
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 994
+        width: 116
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d19b87b6a3f0e30800000000000000
+      internalID: 4471857188263501147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_57
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1177
+        width: 43
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15076ff85fcd4360800000000000000
+      internalID: 7155603364110599452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_58
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 1287
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc24b5c972fc0d350800000000000000
+      internalID: 6039554869337735883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_59
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 1177
+        width: 43
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c3ee00220729dc0800000000000000
+      internalID: -3633718657987756974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_60
+      rect:
+        serializedVersion: 2
+        x: 5372
+        y: 994
+        width: 113
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cda082be31690730800000000000000
+      internalID: 3965807868787076550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_61
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 949
+        width: 250
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f7778344cf32b80800000000000000
+      internalID: -8420609508317364347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_62
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 1203
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1c49db1aa2ae170800000000000000
+      internalID: 8208420144994894329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_63
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 462
+        width: 199
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6c36b5bf34e1830800000000000000
+      internalID: 4043744262274401965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_64
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 880
+        width: 639
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c863431546f272370800000000000000
+      internalID: 8297652946359039628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_65
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 880
+        width: 636
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563ae915e41af5f50800000000000000
+      internalID: 6872388914139538277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_66
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 462
+        width: 195
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10029450f3a4b9cb0800000000000000
+      internalID: -4856206138656874495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_67
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 274
+        width: 284
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d461138bdc4344430800000000000000
+      internalID: 3766193246551742029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_68
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 203
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2049ab22375c0f490800000000000000
+      internalID: -7714449063391095806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_69
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 220
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057fec823055c22a0800000000000000
+      internalID: -6760935468532041904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_70
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 308
+        width: 229
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece8a6ac9235a2e70800000000000000
+      internalID: 9091170236755513038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_71
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 220
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c852e6fda990009d0800000000000000
+      internalID: -2810235606701038196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_72
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 137
+        width: 132
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6764ee034aeae7f30800000000000000
+      internalID: 4575286291673794166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_73
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 169
+        width: 67
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d638ececd104a1cc0800000000000000
+      internalID: -3739606043809905811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_74
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 137
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f720abf818820340800000000000000
+      internalID: 4828571391376762870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_75
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 137
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc6093f991f6ca70800000000000000
+      internalID: 8847024161534536920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_76
+      rect:
+        serializedVersion: 2
+        x: 4569
+        y: 169
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b90804e0ac68ba00800000000000000
+      internalID: 772486774370339255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pterodactylus_0: 953506729559443137
+      Pterodactylus_1: 2367232356632502127
+      Pterodactylus_10: 3888913231036807445
+      Pterodactylus_11: -602763909766025038
+      Pterodactylus_12: 3094062075669388718
+      Pterodactylus_13: -1884500573669284546
+      Pterodactylus_14: 4538552970732073246
+      Pterodactylus_15: -8316505501277737434
+      Pterodactylus_16: 8728246883105721094
+      Pterodactylus_17: -4645841763972100555
+      Pterodactylus_18: -4536019777071762513
+      Pterodactylus_19: -6213683001327540349
+      Pterodactylus_2: -5224768144106046984
+      Pterodactylus_20: -8875841789899799878
+      Pterodactylus_21: -5966074521731694317
+      Pterodactylus_22: 3276983432640472274
+      Pterodactylus_23: 1226961949107268212
+      Pterodactylus_24: 1765933404717395826
+      Pterodactylus_25: 6055218386102273700
+      Pterodactylus_26: 1509714570877602913
+      Pterodactylus_27: 8196740375564632263
+      Pterodactylus_28: 6679857659397610024
+      Pterodactylus_29: -6654358963669343123
+      Pterodactylus_3: -1134215287315698653
+      Pterodactylus_30: -5767384719247085953
+      Pterodactylus_31: 5816370851638497120
+      Pterodactylus_32: -2951745170448922630
+      Pterodactylus_33: 3096738561906218500
+      Pterodactylus_34: 3639255559081629991
+      Pterodactylus_35: -6985988268550346569
+      Pterodactylus_36: 8948784254483378384
+      Pterodactylus_37: 6973851243297443056
+      Pterodactylus_38: 283360699670040732
+      Pterodactylus_39: -946234521042681721
+      Pterodactylus_4: -7480463906996904754
+      Pterodactylus_40: -9212360583870231505
+      Pterodactylus_41: 4699845714981713618
+      Pterodactylus_42: 6445051979507251625
+      Pterodactylus_43: -1612581481071269538
+      Pterodactylus_44: 6980511201441082527
+      Pterodactylus_45: 97041320277981388
+      Pterodactylus_46: -9102793184932474449
+      Pterodactylus_47: -4149842989787083583
+      Pterodactylus_48: 7750978477916581697
+      Pterodactylus_49: -1137360190582851995
+      Pterodactylus_5: 2749964227367672179
+      Pterodactylus_50: 7916484431158008779
+      Pterodactylus_51: -2832997741301464837
+      Pterodactylus_52: -2176482386086721509
+      Pterodactylus_53: 542482227754161125
+      Pterodactylus_54: 1713828518482096814
+      Pterodactylus_55: -1544353759153117351
+      Pterodactylus_56: 4471857188263501147
+      Pterodactylus_57: 7155603364110599452
+      Pterodactylus_58: 6039554869337735883
+      Pterodactylus_59: -3633718657987756974
+      Pterodactylus_6: 2064001256186268991
+      Pterodactylus_60: 3965807868787076550
+      Pterodactylus_61: -8420609508317364347
+      Pterodactylus_62: 8208420144994894329
+      Pterodactylus_63: 4043744262274401965
+      Pterodactylus_64: 8297652946359039628
+      Pterodactylus_65: 6872388914139538277
+      Pterodactylus_66: -4856206138656874495
+      Pterodactylus_67: 3766193246551742029
+      Pterodactylus_68: -7714449063391095806
+      Pterodactylus_69: -6760935468532041904
+      Pterodactylus_7: -8269834152616862628
+      Pterodactylus_70: 9091170236755513038
+      Pterodactylus_71: -2810235606701038196
+      Pterodactylus_72: 4575286291673794166
+      Pterodactylus_73: -3739606043809905811
+      Pterodactylus_74: 4828571391376762870
+      Pterodactylus_75: 8847024161534536920
+      Pterodactylus_76: 772486774370339255
+      Pterodactylus_8: -5810588344308759630
+      Pterodactylus_9: 1804456431388026538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

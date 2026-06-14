@@ -1,0 +1,3679 @@
+fileFormatVersion: 2
+guid: 7e2716aee2a8e104ba7becdbc2d6e4c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6713369507611755992
+    second: Stegosaurus_0
+  - first:
+      213: -7089649696191693980
+    second: Stegosaurus_1
+  - first:
+      213: 8568201525612123616
+    second: Stegosaurus_2
+  - first:
+      213: -8132716767034006991
+    second: Stegosaurus_3
+  - first:
+      213: -3918572240402184045
+    second: Stegosaurus_4
+  - first:
+      213: 8851982502819414116
+    second: Stegosaurus_5
+  - first:
+      213: 3122559634860561363
+    second: Stegosaurus_6
+  - first:
+      213: 2093012612268130819
+    second: Stegosaurus_7
+  - first:
+      213: -4404306809785819027
+    second: Stegosaurus_8
+  - first:
+      213: -4406182619776982963
+    second: Stegosaurus_9
+  - first:
+      213: 4871444413385199229
+    second: Stegosaurus_10
+  - first:
+      213: -7691740538895904446
+    second: Stegosaurus_11
+  - first:
+      213: 1172530893948268274
+    second: Stegosaurus_12
+  - first:
+      213: 6473773911601999080
+    second: Stegosaurus_13
+  - first:
+      213: 3655865312741136903
+    second: Stegosaurus_14
+  - first:
+      213: 1879413904063735833
+    second: Stegosaurus_15
+  - first:
+      213: 7908425972114735182
+    second: Stegosaurus_16
+  - first:
+      213: -5265796529200626327
+    second: Stegosaurus_17
+  - first:
+      213: 8938725891146564514
+    second: Stegosaurus_18
+  - first:
+      213: -7497596623426388057
+    second: Stegosaurus_19
+  - first:
+      213: -2351845927152454908
+    second: Stegosaurus_20
+  - first:
+      213: -2601324758350170606
+    second: Stegosaurus_21
+  - first:
+      213: -8687850482311195994
+    second: Stegosaurus_22
+  - first:
+      213: 5962354756249008219
+    second: Stegosaurus_23
+  - first:
+      213: -7769203411217378135
+    second: Stegosaurus_24
+  - first:
+      213: 3717931412316165201
+    second: Stegosaurus_25
+  - first:
+      213: -3536711559530228262
+    second: Stegosaurus_26
+  - first:
+      213: 3120773620535749862
+    second: Stegosaurus_27
+  - first:
+      213: -8923916993102412563
+    second: Stegosaurus_28
+  - first:
+      213: 221090795609999673
+    second: Stegosaurus_29
+  - first:
+      213: -6511747579438672443
+    second: Stegosaurus_30
+  - first:
+      213: -4425368144267625919
+    second: Stegosaurus_31
+  - first:
+      213: -2378294999723598441
+    second: Stegosaurus_32
+  - first:
+      213: 4826826452229505611
+    second: Stegosaurus_33
+  - first:
+      213: 530279979938769021
+    second: Stegosaurus_34
+  - first:
+      213: 1611035889793271567
+    second: Stegosaurus_35
+  - first:
+      213: -5296681547087549690
+    second: Stegosaurus_36
+  - first:
+      213: 8883678173312825878
+    second: Stegosaurus_37
+  - first:
+      213: -6831522348993297342
+    second: Stegosaurus_38
+  - first:
+      213: -5726506921157603359
+    second: Stegosaurus_39
+  - first:
+      213: -768671622017194891
+    second: Stegosaurus_40
+  - first:
+      213: -8915985512274761986
+    second: Stegosaurus_41
+  - first:
+      213: -4296395448643949343
+    second: Stegosaurus_42
+  - first:
+      213: 1121195325089665247
+    second: Stegosaurus_43
+  - first:
+      213: 4889485224265160499
+    second: Stegosaurus_44
+  - first:
+      213: 729790242877354718
+    second: Stegosaurus_45
+  - first:
+      213: 5833024990721809511
+    second: Stegosaurus_46
+  - first:
+      213: -5076089166590960273
+    second: Stegosaurus_47
+  - first:
+      213: 4970278096372096278
+    second: Stegosaurus_48
+  - first:
+      213: -3197628559877255364
+    second: Stegosaurus_49
+  - first:
+      213: -4775667358675779451
+    second: Stegosaurus_50
+  - first:
+      213: 1572423195761264824
+    second: Stegosaurus_51
+  - first:
+      213: 2797648153553324890
+    second: Stegosaurus_52
+  - first:
+      213: 8604700505291322822
+    second: Stegosaurus_53
+  - first:
+      213: 6581928861733972390
+    second: Stegosaurus_54
+  - first:
+      213: 6288994477375376085
+    second: Stegosaurus_55
+  - first:
+      213: 7397529389844709494
+    second: Stegosaurus_56
+  - first:
+      213: 1574991099314564930
+    second: Stegosaurus_57
+  - first:
+      213: -1178478712767443220
+    second: Stegosaurus_58
+  - first:
+      213: -6451045532107299029
+    second: Stegosaurus_59
+  - first:
+      213: 4785229018611503493
+    second: Stegosaurus_60
+  - first:
+      213: -2965038599893134740
+    second: Stegosaurus_61
+  - first:
+      213: 5365323394128045661
+    second: Stegosaurus_62
+  - first:
+      213: -8472315451315382989
+    second: Stegosaurus_63
+  - first:
+      213: 4909976006773869677
+    second: Stegosaurus_64
+  - first:
+      213: 768685789756756211
+    second: Stegosaurus_65
+  - first:
+      213: -1649714103954813515
+    second: Stegosaurus_66
+  - first:
+      213: -5964247183215266879
+    second: Stegosaurus_67
+  - first:
+      213: 7638217528584982431
+    second: Stegosaurus_68
+  - first:
+      213: 8362000544858189776
+    second: Stegosaurus_69
+  - first:
+      213: -4601440083294969078
+    second: Stegosaurus_70
+  - first:
+      213: -5003497520112309364
+    second: Stegosaurus_71
+  - first:
+      213: -5235348227042300570
+    second: Stegosaurus_72
+  - first:
+      213: -3657854978772288492
+    second: Stegosaurus_73
+  - first:
+      213: 2578988777153195450
+    second: Stegosaurus_74
+  - first:
+      213: -7354941004865556776
+    second: Stegosaurus_75
+  - first:
+      213: -8301152646605803834
+    second: Stegosaurus_76
+  - first:
+      213: -7936916674597245590
+    second: Stegosaurus_77
+  - first:
+      213: -1653077770014498024
+    second: Stegosaurus_78
+  - first:
+      213: 2601990982698509368
+    second: Stegosaurus_79
+  - first:
+      213: 4768324807886051812
+    second: Stegosaurus_80
+  - first:
+      213: -1063314008939219472
+    second: Stegosaurus_81
+  - first:
+      213: -238117302661935196
+    second: Stegosaurus_82
+  - first:
+      213: -3125021542145570715
+    second: Stegosaurus_83
+  - first:
+      213: 5983689300570140926
+    second: Stegosaurus_84
+  - first:
+      213: -4257295046577309195
+    second: Stegosaurus_85
+  - first:
+      213: 441197330726807775
+    second: Stegosaurus_86
+  - first:
+      213: -5498133725844487086
+    second: Stegosaurus_87
+  - first:
+      213: 2252231706026735566
+    second: Stegosaurus_88
+  - first:
+      213: -5789595794881289632
+    second: Stegosaurus_89
+  - first:
+      213: -5494405500352148082
+    second: Stegosaurus_90
+  - first:
+      213: -8143604929891862126
+    second: Stegosaurus_91
+  - first:
+      213: 304621546408719028
+    second: Stegosaurus_92
+  - first:
+      213: -5940086897951749369
+    second: Stegosaurus_93
+  - first:
+      213: -5382364916843059203
+    second: Stegosaurus_94
+  - first:
+      213: 5013454797671712930
+    second: Stegosaurus_95
+  - first:
+      213: 1001208689730170644
+    second: Stegosaurus_96
+  - first:
+      213: -7689358630742885933
+    second: Stegosaurus_97
+  - first:
+      213: 4607542958533349118
+    second: Stegosaurus_98
+  - first:
+      213: 4899948844566367269
+    second: Stegosaurus_99
+  - first:
+      213: -5515280949013918327
+    second: Stegosaurus_100
+  - first:
+      213: -5790607733683343266
+    second: Stegosaurus_101
+  - first:
+      213: -3893229647762041022
+    second: Stegosaurus_102
+  - first:
+      213: 218560292144032827
+    second: Stegosaurus_103
+  - first:
+      213: -464827572331576297
+    second: Stegosaurus_104
+  - first:
+      213: -1997565990959616244
+    second: Stegosaurus_105
+  - first:
+      213: 3537002050950881348
+    second: Stegosaurus_106
+  - first:
+      213: 3329248888613479906
+    second: Stegosaurus_107
+  - first:
+      213: -8584771799679413548
+    second: Stegosaurus_108
+  - first:
+      213: 3278423846706962362
+    second: Stegosaurus_109
+  - first:
+      213: -9190008468954480661
+    second: Stegosaurus_110
+  - first:
+      213: -1868924496573913519
+    second: Stegosaurus_111
+  - first:
+      213: 3768853478390763674
+    second: Stegosaurus_112
+  - first:
+      213: 8595631209247841113
+    second: Stegosaurus_113
+  - first:
+      213: -1829795549570003308
+    second: Stegosaurus_114
+  - first:
+      213: -4141309143870821485
+    second: Stegosaurus_115
+  - first:
+      213: 713793950693924923
+    second: Stegosaurus_116
+  - first:
+      213: -2075009218304456200
+    second: Stegosaurus_117
+  - first:
+      213: 4378075077220592779
+    second: Stegosaurus_118
+  - first:
+      213: -3183951718166441291
+    second: Stegosaurus_119
+  - first:
+      213: -4199386192488511646
+    second: Stegosaurus_120
+  - first:
+      213: 8580612619927207964
+    second: Stegosaurus_121
+  - first:
+      213: 4407430588113723853
+    second: Stegosaurus_122
+  - first:
+      213: -3815534721819806583
+    second: Stegosaurus_123
+  - first:
+      213: -8476215834132578665
+    second: Stegosaurus_124
+  - first:
+      213: 7878031951660152612
+    second: Stegosaurus_125
+  - first:
+      213: 7150814085186136719
+    second: Stegosaurus_126
+  - first:
+      213: 2730608387185567246
+    second: Stegosaurus_127
+  - first:
+      213: -266339567337647645
+    second: Stegosaurus_128
+  - first:
+      213: 7879462873124364583
+    second: Stegosaurus_129
+  - first:
+      213: 4841163216674726607
+    second: Stegosaurus_130
+  - first:
+      213: 7170627366496656717
+    second: Stegosaurus_131
+  - first:
+      213: -3969276573795175263
+    second: Stegosaurus_132
+  - first:
+      213: 8615592474262812173
+    second: Stegosaurus_133
+  - first:
+      213: 1145998219352783092
+    second: Stegosaurus_134
+  - first:
+      213: 4560015414383253639
+    second: Stegosaurus_135
+  - first:
+      213: 4567144474284372494
+    second: Stegosaurus_136
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stegosaurus_0
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 1361
+        width: 351
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82abcd4700255d2a0800000000000000
+      internalID: -6713369507611755992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_1
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 1606
+        width: 516
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bb984f9218c9d90800000000000000
+      internalID: -7089649696191693980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_2
+      rect:
+        serializedVersion: 2
+        x: 3402
+        y: 1759
+        width: 513
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5121a24ed58e670800000000000000
+      internalID: 8568201525612123616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_3
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 1586
+        width: 557
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132231a7039c22f80800000000000000
+      internalID: -8132716767034006991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_4
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 1312
+        width: 204
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3980f101f4f6e99c0800000000000000
+      internalID: -3918572240402184045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_5
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 1374
+        width: 210
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460468ebf2f88da70800000000000000
+      internalID: 8851982502819414116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_6
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 972
+        width: 296
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d356d1a17f855b20800000000000000
+      internalID: 3122559634860561363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_7
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 1418
+        width: 203
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30287a0b1efdb0d10800000000000000
+      internalID: 2093012612268130819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_8
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1016
+        width: 247
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60e1e0aa42c0e2c0800000000000000
+      internalID: -4404306809785819027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_9
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 1506
+        width: 151
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4061b490481ad2c0800000000000000
+      internalID: -4406182619776982963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_10
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 1546
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ec2ea42e8da9340800000000000000
+      internalID: 4871444413385199229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_11
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1550
+        width: 140
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24153a28bb2714590800000000000000
+      internalID: -7691740538895904446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_12
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 1548
+        width: 121
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe25fdb2aaa54010800000000000000
+      internalID: 1172530893948268274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_13
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1526
+        width: 169
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec6a35b21777d950800000000000000
+      internalID: 6473773911601999080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_14
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 1496
+        width: 91
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a9b90e12e3cb230800000000000000
+      internalID: 3655865312741136903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_15
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 1399
+        width: 282
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91826a9fcf4051a10800000000000000
+      internalID: 1879413904063735833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_16
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 1292
+        width: 418
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e404f50658f50cd60800000000000000
+      internalID: 7908425972114735182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_17
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1081
+        width: 333
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9650381c4f12ce6b0800000000000000
+      internalID: -5265796529200626327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_18
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1212
+        width: 183
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3c06ea6dbbc0c70800000000000000
+      internalID: 8938725891146564514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_19
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1254
+        width: 161
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af708f489f23f790800000000000000
+      internalID: -7497596623426388057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_20
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 1241
+        width: 213
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403f0a107909c5fd0800000000000000
+      internalID: -2351845927152454908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_21
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 902
+        width: 340
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216fb192aec36ebd0800000000000000
+      internalID: -2601324758350170606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_22
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 934
+        width: 316
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2922c340e8e6780800000000000000
+      internalID: -8687850482311195994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_23
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 1235
+        width: 785
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5835179f0a8eb250800000000000000
+      internalID: 5962354756249008219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_24
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1130
+        width: 57
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a492a619ae3e2490800000000000000
+      internalID: -7769203411217378135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_25
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 1220
+        width: 33
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1541f5acbeeb89330800000000000000
+      internalID: 3717931412316165201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_26
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 929
+        width: 416
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5de2d23931beec0800000000000000
+      internalID: -3536711559530228262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_27
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1330
+        width: 153
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec6174c2173f4b20800000000000000
+      internalID: 3120773620535749862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_28
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 1075
+        width: 200
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de40f0596c0e72480800000000000000
+      internalID: -8923916993102412563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_29
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 1044
+        width: 194
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939417f38e8711300800000000000000
+      internalID: 221090795609999673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_30
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 962
+        width: 201
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c55c84c310a1a5a0800000000000000
+      internalID: -6511747579438672443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_31
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 963
+        width: 206
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a39909e1fe592c0800000000000000
+      internalID: -4425368144267625919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_32
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 755
+        width: 406
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d136a6c499efed0800000000000000
+      internalID: -2378294999723598441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_33
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 877
+        width: 149
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42499da5155cf240800000000000000
+      internalID: 4826826452229505611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_34
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 636
+        width: 304
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7860cb05deeb5700800000000000000
+      internalID: 530279979938769021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_35
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 595
+        width: 147
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07888b2b9c8b5610800000000000000
+      internalID: 1611035889793271567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_36
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 947
+        width: 117
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bea7922386e76b0800000000000000
+      internalID: -5296681547087549690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_37
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 1111
+        width: 49
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ab33b1b3a294b70800000000000000
+      internalID: 8883678173312825878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_38
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 1013
+        width: 197
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244cc195e9e8131a0800000000000000
+      internalID: -6831522348993297342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_39
+      rect:
+        serializedVersion: 2
+        x: 4377
+        y: 979
+        width: 214
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efc598ab4c5780b0800000000000000
+      internalID: -5726506921157603359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_40
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 946
+        width: 238
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574edbc7b312555f0800000000000000
+      internalID: -768671622017194891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_41
+      rect:
+        serializedVersion: 2
+        x: 4441
+        y: 911
+        width: 228
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6655e5a6e044480800000000000000
+      internalID: -8915985512274761986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_42
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 1007
+        width: 344
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ece8fc4a132064c0800000000000000
+      internalID: -4296395448643949343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_43
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 851
+        width: 78
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd05cc335394f8f00800000000000000
+      internalID: 1121195325089665247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_44
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 871
+        width: 109
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33798d6e7e0fad340800000000000000
+      internalID: 4889485224265160499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_45
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 898
+        width: 153
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2304bfb5cb02a00800000000000000
+      internalID: 729790242877354718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_46
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 725
+        width: 125
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c13f9035113f050800000000000000
+      internalID: 5833024990721809511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_47
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 752
+        width: 135
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d13291ccb1e89b0800000000000000
+      internalID: -5076089166590960273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_48
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 772
+        width: 139
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dd9215899f9f440800000000000000
+      internalID: 4970278096372096278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_49
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 817
+        width: 149
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f4fdc34cdbf93d0800000000000000
+      internalID: -3197628559877255364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_50
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 845
+        width: 153
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580c3b007db69bdb0800000000000000
+      internalID: -4775667358675779451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_51
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 893
+        width: 210
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b84fe3c09e52d510800000000000000
+      internalID: 1572423195761264824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_52
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 839
+        width: 210
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bc21f4c2e33d620800000000000000
+      internalID: 2797648153553324890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_53
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 785
+        width: 215
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5738815890a6770800000000000000
+      internalID: 8604700505291322822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_54
+      rect:
+        serializedVersion: 2
+        x: 4890
+        y: 745
+        width: 194
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a96b8c5d65b75b50800000000000000
+      internalID: 6581928861733972390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_55
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 710
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da4a5a182ff64750800000000000000
+      internalID: 6288994477375376085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_56
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 713
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670c43949cd49a660800000000000000
+      internalID: 7397529389844709494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_57
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 704
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24feb076f0e7bd510800000000000000
+      internalID: 1574991099314564930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_58
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 704
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee0326cad335afe0800000000000000
+      internalID: -1178478712767443220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_59
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 710
+        width: 121
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27afd484484976a0800000000000000
+      internalID: -6451045532107299029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_60
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 769
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581da3f607c886240800000000000000
+      internalID: 4785229018611503493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_61
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 797
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c625c045a111ad6d0800000000000000
+      internalID: -2965038599893134740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_62
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 594
+        width: 148
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5668144335757a40800000000000000
+      internalID: 5365323394128045661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_63
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 387
+        width: 240
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3351b4b3cf94c6a80800000000000000
+      internalID: -8472315451315382989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_64
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 434
+        width: 273
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c827bf92db32440800000000000000
+      internalID: 4909976006773869677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_65
+      rect:
+        serializedVersion: 2
+        x: 4596
+        y: 725
+        width: 219
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0975237abeaaa00800000000000000
+      internalID: 768685789756756211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_66
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 664
+        width: 219
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd42d453c90b19e0800000000000000
+      internalID: -1649714103954813515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_67
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 545
+        width: 228
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c374db69ccba3da0800000000000000
+      internalID: -5964247183215266879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_68
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 698
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f487c8f56600a60800000000000000
+      internalID: 7638217528584982431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_69
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 730
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df25e7113bcb0470800000000000000
+      internalID: 8362000544858189776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_70
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 733
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03a5fbaf966420c0800000000000000
+      internalID: -4601440083294969078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_71
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 730
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b682fd381009ab0800000000000000
+      internalID: -5003497520112309364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_72
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 725
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d2cab868e4857b0800000000000000
+      internalID: -5235348227042300570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_73
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 728
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c3266e640bc3dc0800000000000000
+      internalID: -3657854978772288492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_74
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 746
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd6fe5f0a86ac320800000000000000
+      internalID: 2578988777153195450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_75
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 683
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dea80dcf100ee990800000000000000
+      internalID: -7354941004865556776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_76
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 695
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce64c836a16ccc80800000000000000
+      internalID: -8301152646605803834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_77
+      rect:
+        serializedVersion: 2
+        x: 4682
+        y: 600
+        width: 211
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6da1c606586ad190800000000000000
+      internalID: -7936916674597245590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_78
+      rect:
+        serializedVersion: 2
+        x: 5028
+        y: 630
+        width: 175
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e03cc6861f09e0800000000000000
+      internalID: -1653077770014498024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_79
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 677
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834a38843012c1420800000000000000
+      internalID: 2601990982698509368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_80
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 677
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e91bbb262e7c2240800000000000000
+      internalID: 4768324807886051812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_81
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 668
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f53b74ea895e31f0800000000000000
+      internalID: -1063314008939219472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_82
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 660
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af06f7239902bcf0800000000000000
+      internalID: -238117302661935196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_83
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 663
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56848f8e671b1a4d0800000000000000
+      internalID: -3125021542145570715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_84
+      rect:
+        serializedVersion: 2
+        x: 4734
+        y: 543
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0f9c647b55a0350800000000000000
+      internalID: 5983689300570140926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_85
+      rect:
+        serializedVersion: 2
+        x: 5204
+        y: 555
+        width: 153
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9bab416bc0be4c0800000000000000
+      internalID: -4257295046577309195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_86
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 196
+        width: 112
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd862dd72a27f1600800000000000000
+      internalID: 441197330726807775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_87
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 183
+        width: 141
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254c177b184b2b3b0800000000000000
+      internalID: -5498133725844487086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_88
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 188
+        width: 199
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec77895cdc8814f10800000000000000
+      internalID: 2252231706026735566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_89
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 188
+        width: 186
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06261059c4937afa0800000000000000
+      internalID: -5789595794881289632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_90
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 492
+        width: 170
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dce8bde43ffb3b0800000000000000
+      internalID: -5494405500352148082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_91
+      rect:
+        serializedVersion: 2
+        x: 4856
+        y: 456
+        width: 154
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299fca2867a1cfe80800000000000000
+      internalID: -8143604929891862126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_92
+      rect:
+        serializedVersion: 2
+        x: 4906
+        y: 418
+        width: 149
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b23f98beab3a3400800000000000000
+      internalID: 304621546408719028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_93
+      rect:
+        serializedVersion: 2
+        x: 4963
+        y: 390
+        width: 133
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b42a03072909da0800000000000000
+      internalID: -5940086897951749369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_94
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 377
+        width: 114
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df76b0800affd45b0800000000000000
+      internalID: -5382364916843059203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_95
+      rect:
+        serializedVersion: 2
+        x: 5085
+        y: 367
+        width: 102
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a843b8739e539540800000000000000
+      internalID: 5013454797671712930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_96
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 370
+        width: 91
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fa669aff105ed00800000000000000
+      internalID: 1001208689730170644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_97
+      rect:
+        serializedVersion: 2
+        x: 5202
+        y: 380
+        width: 67
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d97cf7b019e94590800000000000000
+      internalID: -7689358630742885933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_98
+      rect:
+        serializedVersion: 2
+        x: 5391
+        y: 524
+        width: 152
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe8bb2b8e741ff30800000000000000
+      internalID: 4607542958533349118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_99
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 177
+        width: 118
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc6f9538d100440800000000000000
+      internalID: 4899948844566367269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_100
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 152
+        width: 184
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dcb85b239c573b0800000000000000
+      internalID: -5515280949013918327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_101
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 202
+        width: 70
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50bc2832f0a3afa0800000000000000
+      internalID: -5790607733683343266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_102
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 188
+        width: 126
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247df18334878f9c0800000000000000
+      internalID: -3893229647762041022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_103
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 380
+        width: 64
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c204f7d6b780300800000000000000
+      internalID: 218560292144032827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_104
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 380
+        width: 60
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7148e5529c99c89f0800000000000000
+      internalID: -464827572331576297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_105
+      rect:
+        serializedVersion: 2
+        x: 5338
+        y: 378
+        width: 61
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f637590583744e0800000000000000
+      internalID: -1997565990959616244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_106
+      rect:
+        serializedVersion: 2
+        x: 5382
+        y: 376
+        width: 59
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44061c020a4f51130800000000000000
+      internalID: 3537002050950881348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_107
+      rect:
+        serializedVersion: 2
+        x: 5424
+        y: 376
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5abae993ed33e20800000000000000
+      internalID: 3329248888613479906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_108
+      rect:
+        serializedVersion: 2
+        x: 5466
+        y: 376
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d251524883ccd880800000000000000
+      internalID: -8584771799679413548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_109
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 377
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf53266e1d4f7d20800000000000000
+      internalID: 3278423846706962362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_110
+      rect:
+        serializedVersion: 2
+        x: 5566
+        y: 370
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beff22dfcf7867080800000000000000
+      internalID: -9190008468954480661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_111
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 361
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156afa5821f3016e0800000000000000
+      internalID: -1868924496573913519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_112
+      rect:
+        serializedVersion: 2
+        x: 5631
+        y: 366
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a901af53548ad4430800000000000000
+      internalID: 3768853478390763674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_113
+      rect:
+        serializedVersion: 2
+        x: 5657
+        y: 354
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b9a7f0b01d94770800000000000000
+      internalID: 8595631209247841113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_114
+      rect:
+        serializedVersion: 2
+        x: 5686
+        y: 340
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e0a4074a24b96e0800000000000000
+      internalID: -1829795549570003308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_115
+      rect:
+        serializedVersion: 2
+        x: 5715
+        y: 338
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ba086764d1786c0800000000000000
+      internalID: -4141309143870821485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_116
+      rect:
+        serializedVersion: 2
+        x: 5742
+        y: 324
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b302fe9f0d7e7e900800000000000000
+      internalID: 713793950693924923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_117
+      rect:
+        serializedVersion: 2
+        x: 5768
+        y: 310
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f94d4d1c161433e0800000000000000
+      internalID: -2075009218304456200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_118
+      rect:
+        serializedVersion: 2
+        x: 5791
+        y: 292
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c69b1361c02cc30800000000000000
+      internalID: 4378075077220592779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_119
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 107
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2d1b818c450d3d0800000000000000
+      internalID: -3183951718166441291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_120
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 89
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267ca0ad188c8b5c0800000000000000
+      internalID: -4199386192488511646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_121
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 117
+        width: 108
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10cefd37b5741770800000000000000
+      internalID: 8580612619927207964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_122
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 104
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1a5b0b4c65a2d30800000000000000
+      internalID: 4407430588113723853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_123
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 92
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984f2c5d26f7c0bc0800000000000000
+      internalID: -3815534721819806583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_124
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 154
+        width: 115
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e7cf69b9e6e5a80800000000000000
+      internalID: -8476215834132578665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_125
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 93
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42771e70254645d60800000000000000
+      internalID: 7878031951660152612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_126
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 97
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a216a168bcc3360800000000000000
+      internalID: 7150814085186136719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_127
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 88
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06e5ea5cd115e520800000000000000
+      internalID: 2730608387185567246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_128
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 147
+        width: 119
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1553b1395cd4cf0800000000000000
+      internalID: -266339567337647645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_129
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 87
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721e4756cb9795d60800000000000000
+      internalID: 7879462873124364583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_130
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 86
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2a595cb444f2340800000000000000
+      internalID: 4841163216674726607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_131
+      rect:
+        serializedVersion: 2
+        x: 4074
+        y: 148
+        width: 117
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d5ab4299f238360800000000000000
+      internalID: 7170627366496656717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_132
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 81
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4b8ab7cfb4ae8c0800000000000000
+      internalID: -3969276573795175263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_133
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 81
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06b6fd35bbb09770800000000000000
+      internalID: 8615592474262812173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_134
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 94
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8b0c90f4767ef00800000000000000
+      internalID: 1145998219352783092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_135
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 90
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7889e900cdd684f30800000000000000
+      internalID: 4560015414383253639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stegosaurus_136
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 79
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02bb9b93b1c16f30800000000000000
+      internalID: 4567144474284372494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stegosaurus_0: -6713369507611755992
+      Stegosaurus_1: -7089649696191693980
+      Stegosaurus_10: 4871444413385199229
+      Stegosaurus_100: -5515280949013918327
+      Stegosaurus_101: -5790607733683343266
+      Stegosaurus_102: -3893229647762041022
+      Stegosaurus_103: 218560292144032827
+      Stegosaurus_104: -464827572331576297
+      Stegosaurus_105: -1997565990959616244
+      Stegosaurus_106: 3537002050950881348
+      Stegosaurus_107: 3329248888613479906
+      Stegosaurus_108: -8584771799679413548
+      Stegosaurus_109: 3278423846706962362
+      Stegosaurus_11: -7691740538895904446
+      Stegosaurus_110: -9190008468954480661
+      Stegosaurus_111: -1868924496573913519
+      Stegosaurus_112: 3768853478390763674
+      Stegosaurus_113: 8595631209247841113
+      Stegosaurus_114: -1829795549570003308
+      Stegosaurus_115: -4141309143870821485
+      Stegosaurus_116: 713793950693924923
+      Stegosaurus_117: -2075009218304456200
+      Stegosaurus_118: 4378075077220592779
+      Stegosaurus_119: -3183951718166441291
+      Stegosaurus_12: 1172530893948268274
+      Stegosaurus_120: -4199386192488511646
+      Stegosaurus_121: 8580612619927207964
+      Stegosaurus_122: 4407430588113723853
+      Stegosaurus_123: -3815534721819806583
+      Stegosaurus_124: -8476215834132578665
+      Stegosaurus_125: 7878031951660152612
+      Stegosaurus_126: 7150814085186136719
+      Stegosaurus_127: 2730608387185567246
+      Stegosaurus_128: -266339567337647645
+      Stegosaurus_129: 7879462873124364583
+      Stegosaurus_13: 6473773911601999080
+      Stegosaurus_130: 4841163216674726607
+      Stegosaurus_131: 7170627366496656717
+      Stegosaurus_132: -3969276573795175263
+      Stegosaurus_133: 8615592474262812173
+      Stegosaurus_134: 1145998219352783092
+      Stegosaurus_135: 4560015414383253639
+      Stegosaurus_136: 4567144474284372494
+      Stegosaurus_14: 3655865312741136903
+      Stegosaurus_15: 1879413904063735833
+      Stegosaurus_16: 7908425972114735182
+      Stegosaurus_17: -5265796529200626327
+      Stegosaurus_18: 8938725891146564514
+      Stegosaurus_19: -7497596623426388057
+      Stegosaurus_2: 8568201525612123616
+      Stegosaurus_20: -2351845927152454908
+      Stegosaurus_21: -2601324758350170606
+      Stegosaurus_22: -8687850482311195994
+      Stegosaurus_23: 5962354756249008219
+      Stegosaurus_24: -7769203411217378135
+      Stegosaurus_25: 3717931412316165201
+      Stegosaurus_26: -3536711559530228262
+      Stegosaurus_27: 3120773620535749862
+      Stegosaurus_28: -8923916993102412563
+      Stegosaurus_29: 221090795609999673
+      Stegosaurus_3: -8132716767034006991
+      Stegosaurus_30: -6511747579438672443
+      Stegosaurus_31: -4425368144267625919
+      Stegosaurus_32: -2378294999723598441
+      Stegosaurus_33: 4826826452229505611
+      Stegosaurus_34: 530279979938769021
+      Stegosaurus_35: 1611035889793271567
+      Stegosaurus_36: -5296681547087549690
+      Stegosaurus_37: 8883678173312825878
+      Stegosaurus_38: -6831522348993297342
+      Stegosaurus_39: -5726506921157603359
+      Stegosaurus_4: -3918572240402184045
+      Stegosaurus_40: -768671622017194891
+      Stegosaurus_41: -8915985512274761986
+      Stegosaurus_42: -4296395448643949343
+      Stegosaurus_43: 1121195325089665247
+      Stegosaurus_44: 4889485224265160499
+      Stegosaurus_45: 729790242877354718
+      Stegosaurus_46: 5833024990721809511
+      Stegosaurus_47: -5076089166590960273
+      Stegosaurus_48: 4970278096372096278
+      Stegosaurus_49: -3197628559877255364
+      Stegosaurus_5: 8851982502819414116
+      Stegosaurus_50: -4775667358675779451
+      Stegosaurus_51: 1572423195761264824
+      Stegosaurus_52: 2797648153553324890
+      Stegosaurus_53: 8604700505291322822
+      Stegosaurus_54: 6581928861733972390
+      Stegosaurus_55: 6288994477375376085
+      Stegosaurus_56: 7397529389844709494
+      Stegosaurus_57: 1574991099314564930
+      Stegosaurus_58: -1178478712767443220
+      Stegosaurus_59: -6451045532107299029
+      Stegosaurus_6: 3122559634860561363
+      Stegosaurus_60: 4785229018611503493
+      Stegosaurus_61: -2965038599893134740
+      Stegosaurus_62: 5365323394128045661
+      Stegosaurus_63: -8472315451315382989
+      Stegosaurus_64: 4909976006773869677
+      Stegosaurus_65: 768685789756756211
+      Stegosaurus_66: -1649714103954813515
+      Stegosaurus_67: -5964247183215266879
+      Stegosaurus_68: 7638217528584982431
+      Stegosaurus_69: 8362000544858189776
+      Stegosaurus_7: 2093012612268130819
+      Stegosaurus_70: -4601440083294969078
+      Stegosaurus_71: -5003497520112309364
+      Stegosaurus_72: -5235348227042300570
+      Stegosaurus_73: -3657854978772288492
+      Stegosaurus_74: 2578988777153195450
+      Stegosaurus_75: -7354941004865556776
+      Stegosaurus_76: -8301152646605803834
+      Stegosaurus_77: -7936916674597245590
+      Stegosaurus_78: -1653077770014498024
+      Stegosaurus_79: 2601990982698509368
+      Stegosaurus_8: -4404306809785819027
+      Stegosaurus_80: 4768324807886051812
+      Stegosaurus_81: -1063314008939219472
+      Stegosaurus_82: -238117302661935196
+      Stegosaurus_83: -3125021542145570715
+      Stegosaurus_84: 5983689300570140926
+      Stegosaurus_85: -4257295046577309195
+      Stegosaurus_86: 441197330726807775
+      Stegosaurus_87: -5498133725844487086
+      Stegosaurus_88: 2252231706026735566
+      Stegosaurus_89: -5789595794881289632
+      Stegosaurus_9: -4406182619776982963
+      Stegosaurus_90: -5494405500352148082
+      Stegosaurus_91: -8143604929891862126
+      Stegosaurus_92: 304621546408719028
+      Stegosaurus_93: -5940086897951749369
+      Stegosaurus_94: -5382364916843059203
+      Stegosaurus_95: 5013454797671712930
+      Stegosaurus_96: 1001208689730170644
+      Stegosaurus_97: -7689358630742885933
+      Stegosaurus_98: 4607542958533349118
+      Stegosaurus_99: 4899948844566367269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

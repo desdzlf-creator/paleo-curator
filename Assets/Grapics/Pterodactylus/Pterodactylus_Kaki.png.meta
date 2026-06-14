@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: d7ac64aa70af26746a114686fbe938e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8473399770932568661
+    second: Pterodactylus_Kaki_0
+  - first:
+      213: -3453041755684893716
+    second: Pterodactylus_Kaki_1
+  - first:
+      213: 8253845571492987556
+    second: Pterodactylus_Kaki_2
+  - first:
+      213: 2866315517999905090
+    second: Pterodactylus_Kaki_3
+  - first:
+      213: -1629499161378945713
+    second: Pterodactylus_Kaki_4
+  - first:
+      213: -6493628982904478447
+    second: Pterodactylus_Kaki_5
+  - first:
+      213: 1183998346167278340
+    second: Pterodactylus_Kaki_6
+  - first:
+      213: -746178217002829033
+    second: Pterodactylus_Kaki_7
+  - first:
+      213: 2789102502992165138
+    second: Pterodactylus_Kaki_8
+  - first:
+      213: -683208253647162437
+    second: Pterodactylus_Kaki_9
+  - first:
+      213: 1050931084451163052
+    second: Pterodactylus_Kaki_10
+  - first:
+      213: 8281019465445951967
+    second: Pterodactylus_Kaki_11
+  - first:
+      213: 3767777634793403126
+    second: Pterodactylus_Kaki_12
+  - first:
+      213: 64354458001186657
+    second: Pterodactylus_Kaki_13
+  - first:
+      213: 6271315299422302024
+    second: Pterodactylus_Kaki_14
+  - first:
+      213: -1599260837706199867
+    second: Pterodactylus_Kaki_15
+  - first:
+      213: -1822321710105115182
+    second: Pterodactylus_Kaki_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_0
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1130
+        width: 250
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad10b56dcf686a80800000000000000
+      internalID: -8473399770932568661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_1
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1358
+        width: 43
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb8fc571d45410d0800000000000000
+      internalID: -3453041755684893716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_2
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1358
+        width: 43
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a245c701dc8b8270800000000000000
+      internalID: 8253845571492987556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 643
+        width: 199
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249f298f6c237c720800000000000000
+      internalID: 2866315517999905090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1061
+        width: 639
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45063c652bd269e0800000000000000
+      internalID: -1629499161378945713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_5
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1061
+        width: 636
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1152cc248def1e5a0800000000000000
+      internalID: -6493628982904478447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_6
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 643
+        width: 195
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b53f509386e6010800000000000000
+      internalID: 1183998346167278340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 455
+        width: 284
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b79647dda05a5f0800000000000000
+      internalID: -746178217002829033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 384
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219300df2f1e4b620800000000000000
+      internalID: 2789102502992165138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 401
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3febd86b1c486f0800000000000000
+      internalID: -683208253647162437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_10
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 489
+        width: 229
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caba024d048a59e00800000000000000
+      internalID: 1050931084451163052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_11
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 401
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9400044571ce270800000000000000
+      internalID: 8281019465445951967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_12
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 318
+        width: 132
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2b58adbc5d94430800000000000000
+      internalID: 3767777634793403126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 350
+        width: 67
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f9fd0e902a4e000800000000000000
+      internalID: 64354458001186657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 318
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fe988b900380750800000000000000
+      internalID: 6271315299422302024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 318
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0459cdb84ec9e0800000000000000
+      internalID: -1599260837706199867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Kaki_16
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 350
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5c3ba4f00d5b6e0800000000000000
+      internalID: -1822321710105115182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pterodactylus_Kaki_0: -8473399770932568661
+      Pterodactylus_Kaki_1: -3453041755684893716
+      Pterodactylus_Kaki_10: 1050931084451163052
+      Pterodactylus_Kaki_11: 8281019465445951967
+      Pterodactylus_Kaki_12: 3767777634793403126
+      Pterodactylus_Kaki_13: 64354458001186657
+      Pterodactylus_Kaki_14: 6271315299422302024
+      Pterodactylus_Kaki_15: -1599260837706199867
+      Pterodactylus_Kaki_16: -1822321710105115182
+      Pterodactylus_Kaki_2: 8253845571492987556
+      Pterodactylus_Kaki_3: 2866315517999905090
+      Pterodactylus_Kaki_4: -1629499161378945713
+      Pterodactylus_Kaki_5: -6493628982904478447
+      Pterodactylus_Kaki_6: 1183998346167278340
+      Pterodactylus_Kaki_7: -746178217002829033
+      Pterodactylus_Kaki_8: 2789102502992165138
+      Pterodactylus_Kaki_9: -683208253647162437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

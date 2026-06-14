@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 00c40ef72a4453b448b061f262d02811
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -745728681425732592
+    second: PterodactylusTanganKiri_0
+  - first:
+      213: 8457990119678762110
+    second: PterodactylusTanganKiri_1
+  - first:
+      213: 1699911864599915113
+    second: PterodactylusTanganKiri_2
+  - first:
+      213: -5078373676537541339
+    second: PterodactylusTanganKiri_3
+  - first:
+      213: -651088880253126286
+    second: PterodactylusTanganKiri_4
+  - first:
+      213: 2807521334007426722
+    second: PterodactylusTanganKiri_5
+  - first:
+      213: -5443906893693059383
+    second: PterodactylusTanganKiri_6
+  - first:
+      213: 7427227455630530465
+    second: PterodactylusTanganKiri_7
+  - first:
+      213: 3803370959702925208
+    second: PterodactylusTanganKiri_8
+  - first:
+      213: 2029075087278522687
+    second: PterodactylusTanganKiri_9
+  - first:
+      213: 6527189237839956506
+    second: PterodactylusTanganKiri_10
+  - first:
+      213: 1712212556410639312
+    second: PterodactylusTanganKiri_11
+  - first:
+      213: 532008984199013709
+    second: PterodactylusTanganKiri_12
+  - first:
+      213: -2155290989736725346
+    second: PterodactylusTanganKiri_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_0
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2473
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c7ccc17b3a6a5f0800000000000000
+      internalID: -745728681425732592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_1
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2309
+        width: 83
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c57359331d06570800000000000000
+      internalID: 8457990119678762110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_2
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2329
+        width: 58
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a23f695dc479710800000000000000
+      internalID: 1699911864599915113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_3
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2470
+        width: 31
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d094d2c0ef589b0800000000000000
+      internalID: -5078373676537541339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2431
+        width: 33
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2793e4fec1ed6f6f0800000000000000
+      internalID: -651088880253126286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_5
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2329
+        width: 32
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aee7d447c156f620800000000000000
+      internalID: 2807521334007426722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_6
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1800
+        width: 284
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceff13f58b5374b0800000000000000
+      internalID: -5443906893693059383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_7
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1898
+        width: 427
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7d2ee0500d21760800000000000000
+      internalID: 7427227455630530465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_8
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1414
+        width: 142
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f112a9cb948c430800000000000000
+      internalID: 3803370959702925208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_9
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1338
+        width: 191
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c4d79a09b82c10800000000000000
+      internalID: 2029075087278522687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_10
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1697
+        width: 187
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a043f770c359a50800000000000000
+      internalID: 6527189237839956506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 972
+        width: 150
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3d1d49f3003c710800000000000000
+      internalID: 1712212556410639312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_12
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1343
+        width: 389
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45af783a53126700800000000000000
+      internalID: 532008984199013709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PterodactylusTanganKiri_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 649
+        width: 118
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e947429934ed612e0800000000000000
+      internalID: -2155290989736725346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PterodactylusTanganKiri_0: -745728681425732592
+      PterodactylusTanganKiri_1: 8457990119678762110
+      PterodactylusTanganKiri_10: 6527189237839956506
+      PterodactylusTanganKiri_11: 1712212556410639312
+      PterodactylusTanganKiri_12: 532008984199013709
+      PterodactylusTanganKiri_13: -2155290989736725346
+      PterodactylusTanganKiri_2: 1699911864599915113
+      PterodactylusTanganKiri_3: -5078373676537541339
+      PterodactylusTanganKiri_4: -651088880253126286
+      PterodactylusTanganKiri_5: 2807521334007426722
+      PterodactylusTanganKiri_6: -5443906893693059383
+      PterodactylusTanganKiri_7: 7427227455630530465
+      PterodactylusTanganKiri_8: 3803370959702925208
+      PterodactylusTanganKiri_9: 2029075087278522687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

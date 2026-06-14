@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 70a2297dd9a65fb4da2ce8c825be53f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5361142931414867408
+    second: Triceratops_0
+  - first:
+      213: -8289730090972392895
+    second: Triceratops_1
+  - first:
+      213: 6267044722501009135
+    second: Triceratops_2
+  - first:
+      213: 7440228120943205719
+    second: Triceratops_3
+  - first:
+      213: 3271477156864067176
+    second: Triceratops_4
+  - first:
+      213: -5706336194846297024
+    second: Triceratops_5
+  - first:
+      213: -758914159845590049
+    second: Triceratops_6
+  - first:
+      213: -1772928254815993033
+    second: Triceratops_7
+  - first:
+      213: 7551198136040068970
+    second: Triceratops_8
+  - first:
+      213: 5151110127830595597
+    second: Triceratops_9
+  - first:
+      213: 4108693465884342269
+    second: Triceratops_10
+  - first:
+      213: 5872070891698213480
+    second: Triceratops_11
+  - first:
+      213: 1672297751798031720
+    second: Triceratops_12
+  - first:
+      213: 3011074754637641534
+    second: Triceratops_13
+  - first:
+      213: 6046109839058273932
+    second: Triceratops_14
+  - first:
+      213: 3006863563434105823
+    second: Triceratops_15
+  - first:
+      213: -6519187153930483452
+    second: Triceratops_16
+  - first:
+      213: 1413424421661007704
+    second: Triceratops_17
+  - first:
+      213: -2117374320434115335
+    second: Triceratops_18
+  - first:
+      213: -8257679428872569967
+    second: Triceratops_19
+  - first:
+      213: 8053742201057899697
+    second: Triceratops_20
+  - first:
+      213: 2506810637165140660
+    second: Triceratops_21
+  - first:
+      213: -7077351819938081850
+    second: Triceratops_22
+  - first:
+      213: 8828456551380642580
+    second: Triceratops_23
+  - first:
+      213: -1558814374943625621
+    second: Triceratops_24
+  - first:
+      213: 7370301325617007001
+    second: Triceratops_25
+  - first:
+      213: -5486963395669254129
+    second: Triceratops_26
+  - first:
+      213: -4589041863873716285
+    second: Triceratops_27
+  - first:
+      213: -6331734997337741509
+    second: Triceratops_28
+  - first:
+      213: -3955510393785297608
+    second: Triceratops_29
+  - first:
+      213: 5077590137147813321
+    second: Triceratops_30
+  - first:
+      213: -6109370531296319039
+    second: Triceratops_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Triceratops_0
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 868
+        width: 1371
+        height: 1354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd5411771b966a40800000000000000
+      internalID: 5361142931414867408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_1
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1163
+        width: 208
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14259b33766f4fc80800000000000000
+      internalID: -8289730090972392895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_2
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 1118
+        width: 249
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeb82c88f309f650800000000000000
+      internalID: 6267044722501009135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_3
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1096
+        width: 224
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d11b45e00014760800000000000000
+      internalID: 7440228120943205719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_4
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 1050
+        width: 243
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86600b1242f966d20800000000000000
+      internalID: 3271477156864067176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_5
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1100
+        width: 240
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0447b39d6750fc0b0800000000000000
+      internalID: -5706336194846297024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_6
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 1221
+        width: 217
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbb36fa79bc775f0800000000000000
+      internalID: -758914159845590049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_7
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 1301
+        width: 191
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7338077452b4567e0800000000000000
+      internalID: -1772928254815993033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_8
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 1413
+        width: 180
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67924f52be3bc860800000000000000
+      internalID: 7551198136040068970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_9
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 1649
+        width: 139
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0872489e5b6c7740800000000000000
+      internalID: 5151110127830595597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_10
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 1607
+        width: 587
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7310d30f2050930800000000000000
+      internalID: 4108693465884342269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_11
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 1314
+        width: 367
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862559b4d59cd7150800000000000000
+      internalID: 5872070891698213480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_12
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 1674
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8652b9ee1f1353710800000000000000
+      internalID: 1672297751798031720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_13
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 1313
+        width: 120
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37b256398c79c920800000000000000
+      internalID: 3011074754637641534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_14
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 1211
+        width: 212
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86001e6dd818e350800000000000000
+      internalID: 6046109839058273932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_15
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 831
+        width: 350
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb1e8ada768ab920800000000000000
+      internalID: 3006863563434105823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_16
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 1535
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4090fa9d2d13785a0800000000000000
+      internalID: -6519187153930483452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_17
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 1419
+        width: 134
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f57f9d50e7d9310800000000000000
+      internalID: 1413424421661007704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_18
+      rect:
+        serializedVersion: 2
+        x: 4820
+        y: 1391
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc8dfd16439d92e0800000000000000
+      internalID: -2117374320434115335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_19
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 830
+        width: 385
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bfffc7f44d66d80800000000000000
+      internalID: -8257679428872569967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_20
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 1134
+        width: 79
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4f0ae7cd3a4cf60800000000000000
+      internalID: 8053742201057899697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_21
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 1035
+        width: 77
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba166b2efaf9c220800000000000000
+      internalID: 2506810637165140660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_22
+      rect:
+        serializedVersion: 2
+        x: 4661
+        y: 965
+        width: 66
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c35026640238cd90800000000000000
+      internalID: -7077351819938081850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_23
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 948
+        width: 69
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b6304557af48a70800000000000000
+      internalID: 8828456551380642580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_24
+      rect:
+        serializedVersion: 2
+        x: 4771
+        y: 627
+        width: 1132
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e66beb59afd5ae0800000000000000
+      internalID: -1558814374943625621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_25
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 390
+        width: 309
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9990ef09102984660800000000000000
+      internalID: 7370301325617007001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_26
+      rect:
+        serializedVersion: 2
+        x: 4762
+        y: 891
+        width: 72
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f002091ecd36ad3b0800000000000000
+      internalID: -5486963395669254129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_27
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 657
+        width: 470
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf19641db27050c0800000000000000
+      internalID: -4589041863873716285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_28
+      rect:
+        serializedVersion: 2
+        x: 5147
+        y: 603
+        width: 36
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3766cf11982128a0800000000000000
+      internalID: -6331734997337741509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_29
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 592
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835df0901443b19c0800000000000000
+      internalID: -3955510393785297608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_30
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 123
+        width: 438
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cde8b7d359377640800000000000000
+      internalID: 5077590137147813321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triceratops_31
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 116
+        width: 640
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9e7d0eed7273ba0800000000000000
+      internalID: -6109370531296319039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Triceratops_0: 5361142931414867408
+      Triceratops_1: -8289730090972392895
+      Triceratops_10: 4108693465884342269
+      Triceratops_11: 5872070891698213480
+      Triceratops_12: 1672297751798031720
+      Triceratops_13: 3011074754637641534
+      Triceratops_14: 6046109839058273932
+      Triceratops_15: 3006863563434105823
+      Triceratops_16: -6519187153930483452
+      Triceratops_17: 1413424421661007704
+      Triceratops_18: -2117374320434115335
+      Triceratops_19: -8257679428872569967
+      Triceratops_2: 6267044722501009135
+      Triceratops_20: 8053742201057899697
+      Triceratops_21: 2506810637165140660
+      Triceratops_22: -7077351819938081850
+      Triceratops_23: 8828456551380642580
+      Triceratops_24: -1558814374943625621
+      Triceratops_25: 7370301325617007001
+      Triceratops_26: -5486963395669254129
+      Triceratops_27: -4589041863873716285
+      Triceratops_28: -6331734997337741509
+      Triceratops_29: -3955510393785297608
+      Triceratops_3: 7440228120943205719
+      Triceratops_30: 5077590137147813321
+      Triceratops_31: -6109370531296319039
+      Triceratops_4: 3271477156864067176
+      Triceratops_5: -5706336194846297024
+      Triceratops_6: -758914159845590049
+      Triceratops_7: -1772928254815993033
+      Triceratops_8: 7551198136040068970
+      Triceratops_9: 5151110127830595597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

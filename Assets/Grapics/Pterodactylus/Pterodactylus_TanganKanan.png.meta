@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: b316fbe1ff341b342b6965e1e9d1b301
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5478235900785468349
+    second: Pterodactylus_TanganKanan_0
+  - first:
+      213: -3120471874148040116
+    second: Pterodactylus_TanganKanan_1
+  - first:
+      213: 4193115766452612114
+    second: Pterodactylus_TanganKanan_2
+  - first:
+      213: -2315486003153184457
+    second: Pterodactylus_TanganKanan_3
+  - first:
+      213: -4048065074760344259
+    second: Pterodactylus_TanganKanan_4
+  - first:
+      213: -3612408903272120378
+    second: Pterodactylus_TanganKanan_5
+  - first:
+      213: -1499763601895519707
+    second: Pterodactylus_TanganKanan_6
+  - first:
+      213: 5126668448698121938
+    second: Pterodactylus_TanganKanan_7
+  - first:
+      213: -692157834419681563
+    second: Pterodactylus_TanganKanan_8
+  - first:
+      213: -3555793349708227563
+    second: Pterodactylus_TanganKanan_9
+  - first:
+      213: -4593511529790326334
+    second: Pterodactylus_TanganKanan_10
+  - first:
+      213: 465551775220656607
+    second: Pterodactylus_TanganKanan_11
+  - first:
+      213: 3151096579110945748
+    second: Pterodactylus_TanganKanan_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_0
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2044
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db32c1ed68a960c40800000000000000
+      internalID: 5478235900785468349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_1
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1942
+        width: 52
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c420fc90d5bd1b4d0800000000000000
+      internalID: -3120471874148040116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_2
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1922
+        width: 87
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c6f71d290f03a30800000000000000
+      internalID: 4193115766452612114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_3
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 2086
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7395aa38fbdbddfd0800000000000000
+      internalID: -2315486003153184457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_4
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1943
+        width: 27
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d9e37134262d7c0800000000000000
+      internalID: -4048065074760344259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_5
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1030
+        width: 138
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfb109ed352eddc0800000000000000
+      internalID: -3612408903272120378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1515
+        width: 428
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a05fd33f4cf2be0800000000000000
+      internalID: -1499763601895519707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_7
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1412
+        width: 282
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2debad5bac5952740800000000000000
+      internalID: 5126668448698121938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_8
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1316
+        width: 184
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e649e6ed16f466f0800000000000000
+      internalID: -692157834419681563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_9
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 948
+        width: 190
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cd1ffa9c847aec0800000000000000
+      internalID: -3555793349708227563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_10
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 960
+        width: 381
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9bf23e9919040c0800000000000000
+      internalID: -4593511529790326334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_11
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 582
+        width: 148
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9649a7fd8f57600800000000000000
+      internalID: 465551775220656607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_TanganKanan_12
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 258
+        width: 113
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d34bdab4a1fabb20800000000000000
+      internalID: 3151096579110945748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pterodactylus_TanganKanan_0: 5478235900785468349
+      Pterodactylus_TanganKanan_1: -3120471874148040116
+      Pterodactylus_TanganKanan_10: -4593511529790326334
+      Pterodactylus_TanganKanan_11: 465551775220656607
+      Pterodactylus_TanganKanan_12: 3151096579110945748
+      Pterodactylus_TanganKanan_2: 4193115766452612114
+      Pterodactylus_TanganKanan_3: -2315486003153184457
+      Pterodactylus_TanganKanan_4: -4048065074760344259
+      Pterodactylus_TanganKanan_5: -3612408903272120378
+      Pterodactylus_TanganKanan_6: -1499763601895519707
+      Pterodactylus_TanganKanan_7: 5126668448698121938
+      Pterodactylus_TanganKanan_8: -692157834419681563
+      Pterodactylus_TanganKanan_9: -3555793349708227563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

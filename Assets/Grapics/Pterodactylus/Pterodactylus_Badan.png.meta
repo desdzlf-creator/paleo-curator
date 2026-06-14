@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 595d68da8b51100488ba0a79cb66d3c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5370792161024455844
+    second: Pterodactylus_Badan_0
+  - first:
+      213: 3239134370184264574
+    second: Pterodactylus_Badan_1
+  - first:
+      213: -6497178687016655988
+    second: Pterodactylus_Badan_2
+  - first:
+      213: -7613865184509607863
+    second: Pterodactylus_Badan_3
+  - first:
+      213: -5600056089066148721
+    second: Pterodactylus_Badan_4
+  - first:
+      213: 3986939928779639072
+    second: Pterodactylus_Badan_5
+  - first:
+      213: -5680352522698943968
+    second: Pterodactylus_Badan_6
+  - first:
+      213: 6231821027364455010
+    second: Pterodactylus_Badan_7
+  - first:
+      213: 2338563976588968297
+    second: Pterodactylus_Badan_8
+  - first:
+      213: -7434127659583197953
+    second: Pterodactylus_Badan_9
+  - first:
+      213: 2705223459092529579
+    second: Pterodactylus_Badan_10
+  - first:
+      213: -4969963397168675676
+    second: Pterodactylus_Badan_11
+  - first:
+      213: 8543121892844223773
+    second: Pterodactylus_Badan_12
+  - first:
+      213: 7297225050732962583
+    second: Pterodactylus_Badan_13
+  - first:
+      213: -6898064442514094624
+    second: Pterodactylus_Badan_14
+  - first:
+      213: -3443467393320406855
+    second: Pterodactylus_Badan_15
+  - first:
+      213: -1749098937972998890
+    second: Pterodactylus_Badan_16
+  - first:
+      213: 6823377802860167090
+    second: Pterodactylus_Badan_17
+  - first:
+      213: -6012735932213068617
+    second: Pterodactylus_Badan_18
+  - first:
+      213: 6343814535924654300
+    second: Pterodactylus_Badan_19
+  - first:
+      213: -5062645598916139264
+    second: Pterodactylus_Badan_20
+  - first:
+      213: -235320636098516355
+    second: Pterodactylus_Badan_21
+  - first:
+      213: -2257678618220518053
+    second: Pterodactylus_Badan_22
+  - first:
+      213: 8988665324499935441
+    second: Pterodactylus_Badan_23
+  - first:
+      213: 7335781289724566001
+    second: Pterodactylus_Badan_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_0
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 730
+        width: 350
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b4fa73cfc1775b0800000000000000
+      internalID: -5370792161024455844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 981
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b779a4c87b3fc20800000000000000
+      internalID: 3239134370184264574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 852
+        width: 307
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83222e586265d5a0800000000000000
+      internalID: -6497178687016655988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 850
+        width: 308
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940479564fd165690800000000000000
+      internalID: -7613865184509607863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 519
+        width: 375
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ce2f848aa9842b0800000000000000
+      internalID: -5600056089066148721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 612
+        width: 251
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0294bb3ddb4745730800000000000000
+      internalID: 3986939928779639072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 705
+        width: 233
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0221985f9755b21b0800000000000000
+      internalID: -5680352522698943968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_7
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 664
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2624edfe430eb7650800000000000000
+      internalID: 6231821027364455010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_8
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 516
+        width: 373
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9614c15eb8f347020800000000000000
+      internalID: 2338563976588968297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_9
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 608
+        width: 257
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc23a3084ca4d890800000000000000
+      internalID: -7434127659583197953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_10
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 701
+        width: 231
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba183453762ea8520800000000000000
+      internalID: 2705223459092529579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 422
+        width: 351
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4411d4f94270bb0800000000000000
+      internalID: -4969963397168675676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 375
+        width: 315
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1db7df19144f8670800000000000000
+      internalID: 8543121892844223773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 565
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71325037583f44560800000000000000
+      internalID: 7297225050732962583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_14
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 420
+        width: 352
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5c132efe62540a0800000000000000
+      internalID: -6898064442514094624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_15
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 373
+        width: 312
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b03f7966a85630d0800000000000000
+      internalID: -3443467393320406855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 323
+        width: 269
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d3b1578c3f9b7e0800000000000000
+      internalID: -1749098937972998890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_17
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 319
+        width: 185
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bff3cbb5f181be50800000000000000
+      internalID: 6823377802860167090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_18
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 384
+        width: 70
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc7638c6887e8ca0800000000000000
+      internalID: -6012735932213068617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 321
+        width: 268
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0afbe95b1c90850800000000000000
+      internalID: 6343814535924654300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 317
+        width: 181
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007a8ec96aeddb9b0800000000000000
+      internalID: -5062645598916139264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 298
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a6705d029fbbcf0800000000000000
+      internalID: -235320636098516355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_22
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 196
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55a8f7224d1ba0e0800000000000000
+      internalID: -2257678618220518053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 112
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0a0b71d772ebc70800000000000000
+      internalID: 8988665324499935441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pterodactylus_Badan_24
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 31
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f95df3673eedc560800000000000000
+      internalID: 7335781289724566001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pterodactylus_Badan_0: -5370792161024455844
+      Pterodactylus_Badan_1: 3239134370184264574
+      Pterodactylus_Badan_10: 2705223459092529579
+      Pterodactylus_Badan_11: -4969963397168675676
+      Pterodactylus_Badan_12: 8543121892844223773
+      Pterodactylus_Badan_13: 7297225050732962583
+      Pterodactylus_Badan_14: -6898064442514094624
+      Pterodactylus_Badan_15: -3443467393320406855
+      Pterodactylus_Badan_16: -1749098937972998890
+      Pterodactylus_Badan_17: 6823377802860167090
+      Pterodactylus_Badan_18: -6012735932213068617
+      Pterodactylus_Badan_19: 6343814535924654300
+      Pterodactylus_Badan_2: -6497178687016655988
+      Pterodactylus_Badan_20: -5062645598916139264
+      Pterodactylus_Badan_21: -235320636098516355
+      Pterodactylus_Badan_22: -2257678618220518053
+      Pterodactylus_Badan_23: 8988665324499935441
+      Pterodactylus_Badan_24: 7335781289724566001
+      Pterodactylus_Badan_3: -7613865184509607863
+      Pterodactylus_Badan_4: -5600056089066148721
+      Pterodactylus_Badan_5: 3986939928779639072
+      Pterodactylus_Badan_6: -5680352522698943968
+      Pterodactylus_Badan_7: 6231821027364455010
+      Pterodactylus_Badan_8: 2338563976588968297
+      Pterodactylus_Badan_9: -7434127659583197953
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
