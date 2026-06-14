@@ -17,10 +17,8 @@ Players restore dinosaur fossils using drag-and-drop mechanics, then unlock fun 
 - Custom assets (sprites, UI, audio)  
 
 ## Installation
-1. Download the latest APK from the **Releases** section.  
-2. Transfer the APK to your Android device.  
-3. Open the file and install the game.  
-4. Launch Paleo Curator and start restoring fossils!  
+Download the latest APK from the **[Releases](https://github.com/desdzlf-creator/paleo-curator/releases)** section.  
+Transfer the APK to your Android device, install, and start restoring fossils!   
 
 ## Screenshots
 ![Gameplay Screenshot](Gameplay.jpeg)
